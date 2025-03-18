@@ -1,0 +1,585 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q1",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\n元素の周期律とそれに関係する次の記述①～⑤のうちから，誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①周期表では，元素が原子番号の順に並べられている。",
+            "choice2": "②周期表を同一周期内で左から右に進むと，原子中の電子の数が増加する。",
+            "choice3": "③原子の第１イオン化エネルギーは，原子番号の増加とともに，周期的に変化する。",
+            "choice4": "④陽子の数が等しい原子は，質量数が異なっても，周期表上で同じ位置を占める。",
+            "choice5": "⑤遷移元素の価電子の数は，族の番号に一致する。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q2",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\nヘリウムとアルゴンは，いずれも周期表で０族に属する元素である。これらの元素に関する次の記述①～⑤のうちから，下線をつけた部分に誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①ヘリウムの原子量は，アルゴンの原子量より【小さい】。",
+            "choice2": "②ヘリウムの単体もアルゴンの単体も１mol当たりの原子の個数は【アボガドロ数に等しい】。",
+            "choice3": "③ヘリウムの空気中での存在量は，アルゴンの存在量より【少ない】。",
+            "choice4": "④ヘリウム原子もアルゴン原子も，Ｋ殻を占める電子の数は【ともに２である】。",
+            "choice5": "⑤ヘリウム原子もアルゴン原子も，最外殻の電子の数は【ともに８である】。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q3",
+        "label": "",
+        "text": "次のａ～ｃに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ａ固体の状態でイオン結晶であるもの】",
+        "choices": {
+            "choice1": "①CO2",
+            "choice2": "②H2O",
+            "choice3": "③CaO",
+            "choice4": "④SO2",
+            "choice5": "⑤SiO2"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q4",
+        "label": "",
+        "text": "次のａ～ｃに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ｂ常温で自由電子をもつ単体】",
+        "choices": {
+            "choice1": "①I2",
+            "choice2": "②Nc",
+            "choice3": "③P4",
+            "choice4": "④S8",
+            "choice5": "⑤Zn"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q5",
+        "label": "",
+        "text": "次のａ～ｃに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ｃ水溶液が酸性を示すもの】",
+        "choices": {
+            "choice1": "①CH3COONa",
+            "choice2": "②NaHSO4",
+            "choice3": "③Na2SO4",
+            "choice4": "④NaHCO3",
+            "choice5": "⑤Na2CO3"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q6",
+        "label": "問４",
+        "text": "次のａ～ｃに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n次の①～⑥で表される化学反応のうちで，両辺の下線部分を比べたとき，硫黄原子が還元されている反応を一つ選べ。\n",
+        "choices": {
+            "choice1": "①FeS ＋ 2HCl FeCl2 ＋ H2S",
+            "choice2": "②CaCl2 ＋ H2SO4 CaSO4 ＋ 2HCl",
+            "choice3": "③Cu ＋ 2H2SO4 CuSO4 ＋ SO2 ＋ 2H2O",
+            "choice4": "④SO3 ＋ H2O H2SO4",
+            "choice5": "⑤SO2 ＋ O3 SO3 ＋ O2",
+            "choice6": "⑥Na2SO3 ＋ H2SO4 SO2 ＋ Na2SO4 ＋ H2O"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q7",
+        "label": "ａ",
+        "text": "容積を任意に調節できる密閉容器内に，窒素0.40molとエタノール0.10molの混合気体を入れ，1.0atm，80℃にした。図１のエタノールの蒸気圧曲線を用いて，次の問い(ａ・ｂ)に答えよ。\n\n\nこの混合気体を1.0atmに保ったまま，容器全体を徐々に冷却したとき，液体のエタノールが生じ始める温度は何度(℃)か。次の①～⑤のうちから，最も適当な数値を一つ選べ。\n",
+        "choices": {
+            "choice1": "①23",
+            "choice2": "②42",
+            "choice3": "③59",
+            "choice4": "④67",
+            "choice5": "⑤78"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-001.png"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q8",
+        "label": "ｂ",
+        "text": "容積を任意に調節できる密閉容器内に，窒素0.40molとエタノール0.10molの混合気体を入れ，1.0atm，80℃にした。図１のエタノールの蒸気圧曲線を用いて，次の問い(ａ・ｂ)に答えよ。\n\n\n1.0atm，80℃の混合気体を温度一定に保ったまま，徐々に加圧したとき，液体のエタノールが生じ始める圧力は何atmか。次の①～⑤のうちから，最も適当な数値を一つ選べ。\n",
+        "choices": {
+            "choice1": "①2.6",
+            "choice2": "②4.2",
+            "choice3": "③5.3",
+            "choice4": "④7.2",
+            "choice5": "⑤9.5"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-001.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q9",
+        "label": "ａ",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n有機化合物Ｘの分子量を求めるために，凝固点降下度を測定した。\n純ベンゼンをガラスの容器に入れ，かき混ぜながら，氷で冷却したときの温度変化の様子(冷却曲線)を図２の曲線Ａで示す。温度は最初急激に変化し，凝固点以下まで下がった後，少し上昇してから温度一定の状態が続き，再び急激に下がる。\nまた，ベンゼン50.0gに，化合物Ｘ 1.22gを溶解した溶液の冷却曲線を図２の曲線Ｂで示す。曲線Ａでは領域Ⅰにおいて温度が一定に保たれるが，曲線Ｂでは温度が徐々に下がる。\n\n次の記述①～⑤のうちから誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①曲線Ａの領域Ⅰでは，液体と固体のベンゼンが共存している。",
+            "choice2": "②曲線Ａの領域Ｉにおける温度は，ベンゼンの量に無関係である。",
+            "choice3": "③曲線Ｂの領域Ｉでは，ベンゼンが部分的に凝固している。",
+            "choice4": "④曲線Ｂの領域Ｉで温度が徐々に下がるのは，ベンゼン溶液中の化合物Ｘの濃度が減少するからである。",
+            "choice5": "⑤曲線Ａの領域Ⅰと曲線Ｂの領域Ⅱでは，いずれもベンゼンは完全に凝固している。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-002.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q10",
+        "label": "ｂ",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n有機化合物Ｘの分子量を求めるために，凝固点降下度を測定した。\n純ベンゼンをガラスの容器に入れ，かき混ぜながら，氷で冷却したときの温度変化の様子(冷却曲線)を図２の曲線Ａで示す。温度は最初急激に変化し，凝固点以下まで下がった後，少し上昇してから温度一定の状態が続き，再び急激に下がる。\nまた，ベンゼン50.0gに，化合物Ｘ 1.22gを溶解した溶液の冷却曲線を図２の曲線Ｂで示す。曲線Ａでは領域Ⅰにおいて温度が一定に保たれるが，曲線Ｂでは温度が徐々に下がる。\n\n純ベンゼンおよび化合物Ｘを加えた溶液の凝固点は，図中の点ｐおよび点ｑで示される温度である。図２の冷却曲線から凝固点降下度を読み取り，化合物Ｘの分子量を計算すると，いくらになるか。次の①～⑤のうちから適当な数値を一つ選べ。ただし，ベンゼンのモル凝固点降下は5.1Ｋ・kg/molである。\n",
+        "choices": {
+            "choice1": "①25",
+            "choice2": "②63",
+            "choice3": "③122",
+            "choice4": "④207",
+            "choice5": "⑤244"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-002.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q11",
+        "label": "問３",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n有機化合物Ｘの分子量を求めるために，凝固点降下度を測定した。\n純ベンゼンをガラスの容器に入れ，かき混ぜながら，氷で冷却したときの温度変化の様子(冷却曲線)を図２の曲線Ａで示す。温度は最初急激に変化し，凝固点以下まで下がった後，少し上昇してから温度一定の状態が続き，再び急激に下がる。\nまた，ベンゼン50.0gに，化合物Ｘ 1.22gを溶解した溶液の冷却曲線を図２の曲線Ｂで示す。曲線Ａでは領域Ⅰにおいて温度が一定に保たれるが，曲線Ｂでは温度が徐々に下がる。\n\n物質の性質に関する次の記述①～④のうちから，下線をつけた部分に誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①ダイヤモンド，炭化ケイ素，ナフタレンのうちで，ナフタレンが最もやわらかいのは，【ナフタレンが分子結晶をつくるからである】。",
+            "choice2": "②メタン，エタン，プロパンのうちで，プロパンの沸点が最も高いのは，【分子間力がプロパンの場合に最も小さいからである】。",
+            "choice3": "③ほぼ同じ分子量をもつCH4，NH3，Neのうちで，NH3の沸点が最も高いのは，【NH3分子が極性をもつからである】。",
+            "choice4": "④６Ｂ族元素の水素化合物であるH2O，H2S，H2Se，H2Teのうちで，H2Oの沸点が最も高いのは，H2O分子間の水素結合のためである。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-002.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q12",
+        "label": "問４",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n有機化合物Ｘの分子量を求めるために，凝固点降下度を測定した。\n純ベンゼンをガラスの容器に入れ，かき混ぜながら，氷で冷却したときの温度変化の様子(冷却曲線)を図２の曲線Ａで示す。温度は最初急激に変化し，凝固点以下まで下がった後，少し上昇してから温度一定の状態が続き，再び急激に下がる。\nまた，ベンゼン50.0gに，化合物Ｘ 1.22gを溶解した溶液の冷却曲線を図２の曲線Ｂで示す。曲線Ａでは領域Ⅰにおいて温度が一定に保たれるが，曲線Ｂでは温度が徐々に下がる。\n\nコロイドに関する次の記述ア～ウについて，その正誤の組合せとして正しいものを，以下の表中の①～⑧のうちから一つ選べ。\n【ア疎水コロイドである炭素のコロイドに，にかわを加えた墨汁がある。この墨汁に少量の電解質を加えると，容易に凝析が起こる。\n】【イ粘土で濁った川の水を浄化するには，硫酸アルミニウムが硫酸ナトリウムよりも有効である。】【\nウ卵白を加熱するとゾルがゲルになるのは，卵白中のタンパク質分子の立体的な形が，熱によって変化するからである。\n】",
+        "choices": {
+            "choice1": "\n①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④誤 正 正",
+            "choice5": "⑤正 誤 誤",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-002.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q13",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～３)に答えよ。\n\n\nエチレン0.8molとヨウ化水素1.0molの混合気体が反応して，ヨウ化エチルを生成するときの物質量の時間変化を図３に示す。この図を参考にして，以下の記述①～⑤のうちから，誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①反応時間が同じ時点では，エチレンの物質量が減少する速さと，ヨウ化水素の物質量が減少する速さは等しい。",
+            "choice2": "②反応時間が同じ時点では，ヨウ化エチルの物質量が増加する速さと，ヨウ化水素の物質量が減少する速さは等しい。",
+            "choice3": "③ヨウ化エチルの物質量が増加する速さは，反応開始時が最も小さい。",
+            "choice4": "④反応を始めてからある時間までに減少したヨウ化水素の物質量と，同じ時間内に増加したヨウ化エチルの物質量は等しい。",
+            "choice5": "⑤ヨウ化水素とエチレンの物質量の比は，反応が進むにつれて変化する。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_G,DM_C6",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-003.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q14",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～３)に答えよ。\n\n\n次の記述①～⑤のうちから，正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①水溶液中での酢酸の電離度は，その濃度が小さくなるにつれて，小さくなる。",
+            "choice2": "②純水の電離度は，室温で１×10−7である。",
+            "choice3": "③一定温度の酸や塩基のうすい水溶液では，水のイオン積はpＨによらず一定である。",
+            "choice4": "④pＨ４の塩酸とpＨ12の水酸化ナトリウム水溶液とを同体積ずつ混合すると，その溶液のpＨは８となる。",
+            "choice5": "⑤酢酸水溶液に水酸化ナトリウム水溶液を加えると，溶液中の酢酸イオンの濃度が減少する。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-003.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q15",
+        "label": "ａ",
+        "text": "銅の電解精錬の過程を実験室で再現するために，希硫酸に硫酸銅(Ⅱ)を溶かした溶液1000mlを電解槽に入れ，不純物を含んだ銅(粗銅)を陽極に，純粋な銅(純銅)を陰極にして電気分解を行った。このことに関して，次の問い(ａ・ｂ)に答えよ。\n\n\n粗銅の電極には，不純物として，おもに亜鉛，金，銀，鉄，ニッケルが含まれている。この不純物の金属には，電気分解後，陽極泥に含まれるものと，水溶液中にイオンとして存在するものとがある。陽極泥に含まれる金属はどれか。次の①～⑦のうちから最も適当なものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①亜鉛，鉄",
+            "choice2": "②亜鉛，鉄，ニッケル",
+            "choice3": "③銀，ニッケル",
+            "choice4": "④金，ニッケル",
+            "choice5": "⑤金，鉄",
+            "choice6": "⑥金，銀",
+            "choice7": "⑦金，銀，鉄"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other-term_other",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q16",
+        "label": "ｂ",
+        "text": "銅の電解精錬の過程を実験室で再現するために，希硫酸に硫酸銅(Ⅱ)を溶かした溶液1000mlを電解槽に入れ，不純物を含んだ銅(粗銅)を陽極に，純粋な銅(純銅)を陰極にして電気分解を行った。このことに関して，次の問い(ａ・ｂ)に答えよ。\n\n\n直流電流を通じて電気分解したところ，粗銅は67.14g減少し，一方，純銅は66.50g増加した。また，陽極泥の質量は0.34gで，溶液中の銅イオンの濃度は0.0400mol/lだけ減少した。この電気分解で水溶液中に溶け出した不純物の金属の質量は何gか。次の①～⑨のうちから最も適当な数値を一つ選べ。ただし，この電気分解により溶液の体積は変化しないものとし，また，不純物としては金属だけが含まれているものとする\n",
+        "choices": {
+            "choice1": "①0.30",
+            "choice2": "②0.34",
+            "choice3": "③0.64",
+            "choice4": "④1.27",
+            "choice5": "⑤2.20",
+            "choice6": "⑥2.54",
+            "choice7": "⑦2.84",
+            "choice8": "⑧3.18",
+            "choice9": "⑨3.52"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "7",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q17",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\n次の実験アおよびイで観察される現象として，正しい組合せを以下の表中の①～⑥のうちから一つ選べ。\n【ア硝酸銀水溶液に銅の小片を加えて放置した後，この溶液の一部をとり，過剰のアンモニア水を加える。\n】【イ硝酸銅(Ⅱ)水溶液に鉛の小片を加えて放置した後，この溶液の一部をとり，塩酸を加える。\n】",
+        "choices": {
+            "choice1": "①溶液が深青色になる 青色の沈殿が生じる",
+            "choice2": "②溶液が深青色になる 白色の沈殿が生じる",
+            "choice3": "③溶液が深青色になる 沈殿は生じない",
+            "choice4": "④溶液の色は変化しない 青色の沈殿が生じる",
+            "choice5": "⑤溶液の色は変化しない 白色の沈殿が生じる",
+            "choice6": "⑥溶液の色は変化しない 沈殿は生じない"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(sentence-sentence)*2",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-004.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q18",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\nア～ウの反応から，鉄(Ⅲ)イオン(Fe3＋)，過酸化水素(H2O2)，ヨウ素(I2)の酸化剤としての強さの順序を知ることができる。Fe3＋，H2O2，I2が酸化剤としての強さの順に正しく並べられているものを，次の①～⑥のうちから一つ選べ。\n酸性の水溶液中で，次のア～ウの酸化還元反応が起こる。【\nア硫酸鉄(Ⅱ)の水溶液に過酸化水素水を加えると，鉄(Ⅱ)イオンは鉄(Ⅲ)イオンに変化する。】【\nイヨウ化カリウムの水溶液に過酸化水素水を加えると，ヨウ化物イオンはヨウ素に変化する。】【\nウヨウ化カリウムの水溶液に硫酸鉄(Ⅲ)の水溶液を加えると，鉄(Ⅲ)イオンは鉄(Ⅱ)イオンに，ヨウ化物イオンはヨウ素に変化する。\n】",
+        "choices": {
+            "choice1": "①Fe3＋＞H2O2＞I2",
+            "choice2": "②Fe3＋＞I2＞H2O2",
+            "choice3": "③H2O2＞Fe3＋＞I2",
+            "choice4": "④H2O2＞I2＞Fe3＋",
+            "choice5": "⑤I2＞H2O2＞Fe3＋",
+            "choice6": "⑥I2＞Fe3＋＞H2O2"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-004.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q19",
+        "label": "ａ",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n海水を淡水化するモデル実験として，塩化ナトリウムと塩化マグネシウムのうすい濃度の試料溶液(溶液Ｌ)をつくり，図４のＡ，Ｂのような装置を組み立てた。図中のアは，溶液を滴下させるためのコック付きの容器，イは粒状の物質をつめたコック付きのガラス管，ウは三角フラスコである。Ａで得られた溶液Ｍは，Ｂのアの容器に移される。図中，支持器具は省略してある。\n\nＡのガラス管につめた陽イオン交換樹脂により，溶液Ｌから除去できるイオンの組の正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①Na＋とCl−",
+            "choice2": "②Mg2＋とCl−",
+            "choice3": "③Cl−とOH−",
+            "choice4": "④Mg2＋とH＋",
+            "choice5": "⑤Na＋とMg2＋",
+            "choice6": "⑥Na＋とH＋"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_P,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-004.png"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q20",
+        "label": "ｂ",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n海水を淡水化するモデル実験として，塩化ナトリウムと塩化マグネシウムのうすい濃度の試料溶液(溶液Ｌ)をつくり，図４のＡ，Ｂのような装置を組み立てた。図中のアは，溶液を滴下させるためのコック付きの容器，イは粒状の物質をつめたコック付きのガラス管，ウは三角フラスコである。Ａで得られた溶液Ｍは，Ｂのアの容器に移される。図中，支持器具は省略してある。\n\n純水を得るために，Ｂのガラス管につめるのに最も適当な物質Ｘを，次の①～⑦のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①活性炭",
+            "choice2": "②砂",
+            "choice3": "③シリカゲル",
+            "choice4": "④フェノール樹脂",
+            "choice5": "⑤陽イオン交換樹脂",
+            "choice6": "⑥陰イオン交換樹脂",
+            "choice7": "⑦メタクリル樹脂"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other",
+        "knowledge_type": "KS,IC_P,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-004.png"
+        ],
+        "correct_answer": "6",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q21",
+        "label": "問４",
+        "text": "次の文章を読んで，問い(ａ・ｂ)に答えよ。\n海水を淡水化するモデル実験として，塩化ナトリウムと塩化マグネシウムのうすい濃度の試料溶液(溶液Ｌ)をつくり，図４のＡ，Ｂのような装置を組み立てた。図中のアは，溶液を滴下させるためのコック付きの容器，イは粒状の物質をつめたコック付きのガラス管，ウは三角フラスコである。Ａで得られた溶液Ｍは，Ｂのアの容器に移される。図中，支持器具は省略してある。\n\nわれわれの生活において，さまざまな物質が，その化学的性質を生かして広く用いられている。次の記述①～⑤のうちから，下線をつけた部分に誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①酸化マグネシウムは【融点が高い】ことを利用して，耐火れんがの原料として使われている。",
+            "choice2": "②焼きセッコウは【水を加えると固まる】ことを利用して，建築材料や塑像などに使われている。",
+            "choice3": "③ハロゲン化銀は【感光性をもつ】ことを利用して，写真のフィルムに使われている。",
+            "choice4": "④さらし粉は【還元作用をもつ】ことを利用して，漂白剤や殺菌剤に使われている。",
+            "choice5": "⑤ポリエチレンは【熱可塑性をもつ】ことを利用して，包装材料や容器などに加工して使われている。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-004.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q22",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～３)に答えよ。\n\n\n芳香環にアルキル基が直接結合した化合物を酸化すると，芳香族カルボン酸が得られる。この反応を，未知化合物の構造決定に利用することができる。\nベンゼン環を含む構造未知の化合物Ａを酸化したところ，カルボン酸Ｂが得られた。カルボン酸Ｂの1.00gを中和するのに，1.00mol/lの水酸化ナトリウム水溶液が12.0ml必要であった。化合物Ａの構造式として最も適当なものを，次の解答群①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_C7",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-005.png",
+            "Center-1993--Main-Kagaku-006.png",
+            "Center-1993--Main-Kagaku-007.png",
+            "Center-1993--Main-Kagaku-008.png",
+            "Center-1993--Main-Kagaku-009.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q23",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～３)に答えよ。\n\n\n次の記述(ａ・ｂ)中の23，24に当てはまる数を，以下の①～⑤のうちから一つずつ選べ。ただし，同じ数をくり返し選んでもよい。\n",
+        "choices": {
+            "choice1": "①１",
+            "choice2": "②２",
+            "choice3": "③３",
+            "choice4": "④４",
+            "choice5": "⑤５",
+            "choice6": "⑥６"
+        },
+        "answer_style": "",
+        "answer_type": "",
+        "knowledge_type": "",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Kagaku-005.png",
+            "Center-1993--Main-Kagaku-006.png",
+            "Center-1993--Main-Kagaku-007.png",
+            "Center-1993--Main-Kagaku-008.png",
+            "Center-1993--Main-Kagaku-009.png"
+        ],
+        "correct_answer": "",
+        "score": ""
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Kagaku(main exam)",
+        "year": "1993",
+        "question_id": "Q24",
+        "label": "問３",
+        "text": "\n【\nｂC3H6Br2の分子式をもつ化合物には，全部で24個の構造異性体がある】。\n\n次にあげた反応ａ～ｄに当てはまる最も適当な例を，以下の解答群①～⑦のうちから一つずつ選べ。\n",
+        "choices": {
+            "choice1": "①セルロースに，濃硫酸と濃硝酸の混合溶液を作用させると，ニトロセルロースが生成する。",
+            "choice2": "②エタノールは硫酸を加えて160～170℃に加熱すると，エチレンになる。",
+            "choice3": "③スクロース(ショ糖)は，酵素の作用で，グルコース(ブドウ糖)とフルクトース(果糖)になる。",
+            "choice4": "④カプロラクタムは，少量の水とともに加熱すると，6-ナイロンになる。",
+            "choice5": "⑤アセチレンは，触媒を用いて酢酸と反応させると，酢酸ビニルになる。",
+            "choice6": "⑥ベンゼンに，鉄粉を触媒として塩素を反応させると，クロロベンゼンが生成する。",
+            "choice7": "⑦エタノールは，希硫酸溶液中で二クロム酸カリウムと反応して，アセトアルデヒドになる。"
+        },
+        "answer_style": "",
+        "answer_type": "",
+        "knowledge_type": "",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "",
+        "score": ""
+    }
+]

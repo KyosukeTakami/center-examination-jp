@@ -1,0 +1,609 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q1",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～３)に答えよ。\n\n\n次に示した電子配置をもつ５種類の原子ア～オがある\n",
+        "choices": {
+            "choice1": "①ア，イ",
+            "choice2": "②ア，ウ",
+            "choice3": "③ア，エ",
+            "choice4": "④ア，オ",
+            "choice5": "⑤イ，ウ",
+            "choice6": "⑥イ，オ",
+            "choice7": "⑦ウ，エ",
+            "choice8": "⑧ウ，オ",
+            "choice9": "⑨エ，オ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "",
+        "knowledge_type": "",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-001.png"
+        ],
+        "correct_answer": "",
+        "score": ""
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q2",
+        "label": "問２",
+        "text": "\n【ｃ組成比が１：４の共有結合の化合物をつくる元素の組合せ】\n\n次のａ・ｂに当てはまるものを，以下の①～⑥のうちから，それぞれ一つずつ選べ。\n",
+        "choices": {
+            "choice1": "①リチウム",
+            "choice2": "②塩化カリウム",
+            "choice3": "③アルミニウム",
+            "choice4": "④二酸化ケイ素",
+            "choice5": "⑤ヨウ素",
+            "choice6": "⑥黒 鉛"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol",
+        "knowledge_type": "",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "",
+        "score": ""
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q3",
+        "label": "問３",
+        "text": "\n【\nｂ水に溶けにくいが，エタノールなどの有機溶媒によく溶ける。】\n\n次の記述①～⑤のうちから，誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①純水を大気中に放置すると，二酸化炭素を吸収して弱い酸性を示す。",
+            "choice2": "②銅を屋外に長い間放置すると，緑色のさびを生じる。",
+            "choice3": "③水酸化ナトリウムを大気中に放置すると，潮解する。",
+            "choice4": "④赤リンを大気中に放置すると，自然発火して五酸化二リン(十酸化四リン)になる。",
+            "choice5": "⑤一酸化窒素は空気に触れると，褐色の二酸化窒素になる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q4",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次の記述①～⑤のうちから，誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①臭化水素は，水素原子と臭素原子が共有結合しているが，水に溶けると陽イオンと陰イオンに分かれる。",
+            "choice2": "②銅は自由電子をもつので，電気や熱をよく導く。",
+            "choice3": "③ネオンとアルゴンでは，アルゴンの方が分子間力が強いので沸点が高い。",
+            "choice4": "④水の沸点が硫化水素の沸点に比べて高いのは，水分子が分子間で水素結合しているからである。",
+            "choice5": "⑤オキソニウムイオン(H3O＋)は，水分子と水素イオンが配位結合しているため，非共有電子対をもたない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-002.png",
+            "Center-1997--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q5",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次の記述①～⑤のうちから，正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①実在気体では，一定温度で圧力を１atmから100atmへ変化させていく間，圧力と体積の積は変わらない。",
+            "choice2": "②気体分子の運動は，温度が高くなるほど激しくなるので，気体の拡散の速度は大きくなる。",
+            "choice3": "③液体の飽和蒸気圧は，温度を上げると低くなる。",
+            "choice4": "④液体が蒸発するときに吸収する熱量は，その蒸気が凝縮するときに放出する熱量よりも大きい。",
+            "choice5": "⑤固体が融解すると，密度は必ず大きくなる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-002.png",
+            "Center-1997--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q6",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n図１に示すように，容積3.0lの容器Ａと容積2.0lの容器Ｂをコックで連結した装置がある。すべてのコックが閉じている状態で，容器Ａには4.0atmの，容器Ｂには5.0atmの窒素が入っている。温度を一定に保ったまま，中央のコックを開き，十分な時間が経過した後，容器内の圧力は何atmになるか。最も適当な数値を，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①2.0",
+            "choice2": "②2.4",
+            "choice3": "③3.6",
+            "choice4": "④4.4",
+            "choice5": "⑤4.5",
+            "choice6": "⑥4.8"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-002.png",
+            "Center-1997--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q7",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次のア～オに，現象と化学用語が示されている。その両者の対応が適切な場合を正，適切でない場合を誤とするとき，ア～オの正誤の組合せとして正しいものを，以下の①～⑥のうちから一つ選べ。\n現 象 化学用語【\nアタンパク質水溶液に不純物として含まれる小さな分子やイオンは，その水溶液をセロハンに包んで水に浸しておくと除去できる。 浸透圧】【\nイ自動車エンジンの冷却水は，エチレングリコールを加えることによって，凍結しにくくなる。 凝固点降下】【\nウ墨汁には，にかわが入っているため，炭素の微粒子が沈殿しにくい。 保護コロイド\n】【エ赤血球を水に浸すと，赤血球は膨張していき，破裂する。 透析\n】【オ水の中に分散した粘土の微粒子は，ミョウバンなどの電解質を加えると，沈殿する。 凝析\n】",
+        "choices": {
+            "choice1": "①誤 正 正 正 誤",
+            "choice2": "②正 正 誤 誤 正",
+            "choice3": "③誤 正 正 誤 正",
+            "choice4": "④正 誤 誤 正 誤",
+            "choice5": "⑤誤 誤 正 正 誤",
+            "choice6": "⑥正 誤 誤 誤 正"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*5",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-002.png",
+            "Center-1997--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q8",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n同じ大きさの球を用いて，面心立方格子と体心立方格子をつくった。図２は，それぞれの格子の，配列の最小単位(単位格子)を示したものである。以下の記述①～⑤のうちから，正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①面心立方格子の方が，体心立方格子よりも単位格子内に含まれる球の数が多い。",
+            "choice2": "②面心立方格子と体心立方格子では，単位格子の一辺の長さが等しい。",
+            "choice3": "③面心立方格子と体心立方格子では，一つの球に接する球の数が等しい。",
+            "choice4": "④面心立方格子よりも体心立方格子の方が，同じ体積で比べると球が密に詰め込まれている。",
+            "choice5": "⑤面心立方格子と体心立方格子は，ともに単位格子の中心に隙間がない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-002.png",
+            "Center-1997--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q9",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\n０℃，１atmで，体積1.12lの窒素と0.10molのエタノールをピストンのついた容器に入れ，57℃で容積を2.46lにした。このとき，気体として存在するエタノールの物質量[mol]は，窒素の物質量[mol]の何倍になるか。最も適当な数値を，次の①～⑥のうちから一つ選べ。ただし，57℃におけるエタノールの飽和蒸気圧は0.40atmとし，気体定数はR＝0.082atm・l/(Ｋ・mol)とする。\n",
+        "choices": {
+            "choice1": "①0.2",
+            "choice2": "②0.5",
+            "choice3": "③0.7",
+            "choice4": "④1.1",
+            "choice5": "⑤1.4",
+            "choice6": "⑥2.0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-004.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q10",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\n図３は，水に対する硝酸カリウムと硝酸ナトリウムの溶解度曲線であり，縦軸(溶解度)は水100gに溶ける無水物の最大量[g]を示している。硝酸ナトリウム90gと硝酸カリウム50gの混合物を，60℃で100gの水に溶かした。この溶液に関する以下の記述①～⑤のうちから，誤りを含むものを一つ選べ。ただし，溶解度は他の塩が共存しても変わらないものとする。\n",
+        "choices": {
+            "choice1": "①硝酸カリウムが析出し始めるのは，およそ32℃まで冷却したときである。",
+            "choice2": "②22℃まで冷却すると，硝酸ナトリウムと硝酸カリウムの混合物が析出する。",
+            "choice3": "③20℃から０℃に冷却したときに析出する量は，硝酸カリウムの方が硝酸ナトリウムより多い。",
+            "choice4": "④10℃まで冷却したとき，溶液中に含まれる溶質の質量パーセント濃度は硝酸カリウムの方が高い。",
+            "choice5": "⑤60℃から０℃の間で，硝酸ナトリウムのみを析出させることはできない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-004.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q11",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\nエタノールの製法の一つとして，ブドウ糖(グルコース)を原料とするアルコール発酵があり，その熱化学方程式は次のように表される。\nC6H12O6(固) ＝ 2C2H5OH(液) ＋ 2CO2 ＋ Q kＪ\nこの反応の反応熱Qを，次の熱化学方程式(1)～(3)を用いて求めると，何kＪになるか。最も適当な数値を，以下の①～⑥のうちから一つ選べ。(１Ｊは0.239calに相当する。)\n【C(黒鉛) ＋ O2 ＝ CO2 ＋ 394kＪ(1)\n】【2C(黒鉛) ＋ 3H2 ＋ O2 ＝ C2H5OH(液) ＋ 277kＪ(2)\n】【6C(黒鉛) ＋ 6H2 ＋ 3O2 ＝ C6H12O6(固) ＋ 1273kＪ(3)\n】",
+        "choices": {
+            "choice1": "①69",
+            "choice2": "②325",
+            "choice3": "③602",
+            "choice4": "④−69",
+            "choice5": "⑤−325",
+            "choice6": "⑥−602"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-004.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q12",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～４)に答えよ。\n\n\n0.1mol/lの硝酸鉛(Ⅱ)水溶液300mlに，0.2mol/lの硫酸100mlを加えると，硫酸鉛(Ⅱ)が沈殿した。沈殿をろ過してから，ろ液に純水を加え，溶液の体積を500mlにした。次の記述①～⑤のうちから，正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①溶液には，未反応の硫酸が0.01mol残っている。",
+            "choice2": "②溶液のpＨは，７より大きい。",
+            "choice3": "③溶液中の硝酸の濃度は，0.04mol/lである。",
+            "choice4": "④沈殿した硫酸鉛(Ⅱ)は，0.04molである。",
+            "choice5": "⑤溶液中に残っている鉛(Ⅱ)イオンの濃度は，0.02mol/lである。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-004.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q13",
+        "label": "ｂ",
+        "text": "濃硫酸と銅から二酸化硫黄を発生させて，試験管に捕集したい。最も適当な方法を，次の①～⑥のうちから一つ選べ。\n\n\n硫黄化合物の反応に関する次の記述①～⑤のうちから，硫黄の酸化数が変化するものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①硫化鉄(Ⅱ)に希塩酸を加えると，硫化水素が発生する。",
+            "choice2": "②二酸化硫黄は，水で湿らせた青色リトマス試験紙を赤く変色させる。",
+            "choice3": "③塩化カルシウム水溶液に希硫酸を加えると，白色の沈殿が生成する。",
+            "choice4": "④硫化水素水に二酸化硫黄を通すと，淡黄色の沈殿が生成する。",
+            "choice5": "⑤硝酸鉛(Ⅱ)水溶液に硫化水素を通すと，黒色の沈殿が生成する。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_P,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "4",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q14",
+        "label": "問２",
+        "text": "濃硫酸と銅から二酸化硫黄を発生させて，試験管に捕集したい。最も適当な方法を，次の①～⑥のうちから一つ選べ。\n\n\n鉄(Ⅲ)イオン，亜鉛イオン，バリウムイオンを含む水溶液がある。次の実験を行って，これらのイオンを分離した。３・４に最も適当な試薬を，以下の①～⑥のうちから一つずつ選べ。\n",
+        "choices": {
+            "choice1": "①硝酸ナトリウム水溶液",
+            "choice2": "②水酸化ナトリウム水溶液",
+            "choice3": "③希塩酸",
+            "choice4": "④希硫酸",
+            "choice5": "⑤希硝酸",
+            "choice6": "⑥塩化アンモニウム水溶液"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other",
+        "knowledge_type": "KS,IC_O,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-005.png",
+            "Center-1997--Main-KagakuIB-006.png"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q15",
+        "label": "問３",
+        "text": "濃硫酸と銅から二酸化硫黄を発生させて，試験管に捕集したい。最も適当な方法を，次の①～⑥のうちから一つ選べ。\n\n\n次の記述ａ～ｃの正誤を判断し，その組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【ａフッ化水素酸は強酸であり，ガラスを侵す。\n】【ｂ鉄は亜鉛よりイオン化傾向が小さい。そのため，鉄板に亜鉛をめっきしたトタンにきずがついて鉄が露出しても，鉄の腐食は抑えられる。\n】【ｃ鉛蓄電池の電解液は希硫酸であり，放電の際に正極のPbO2および負極のPbが，いずれも鉛(Ⅱ)化合物へ変わる。したがって，電解液中の硫酸の濃度は増加する。\n】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④誤 正 正",
+            "choice5": "⑤正 誤 誤",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "6",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q16",
+        "label": "ａ",
+        "text": "図４に示すように電解槽Ⅰに硝酸銀水溶液を，電解槽Ⅱに硫酸ナトリウム水溶液を入れ，電気分解を行ったところ，白金電極Ａに銀が43.2g析出した。次の問い(ａ・ｂ)に答えよ。\n\n\n電気分解によって，白金電極Ｃ，Ｄで発生した気体の物質量[mol]を合計すると，いくらになるか。最も適当な数値を，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①0.2",
+            "choice2": "②0.3",
+            "choice3": "③0.4",
+            "choice4": "④0.6",
+            "choice5": "⑤0.8",
+            "choice6": "⑥0.9"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-007.png"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q17",
+        "label": "ｂ",
+        "text": "図４に示すように電解槽Ⅰに硝酸銀水溶液を，電解槽Ⅱに硫酸ナトリウム水溶液を入れ，電気分解を行ったところ，白金電極Ａに銀が43.2g析出した。次の問い(ａ・ｂ)に答えよ。\n\n\n白金電極Ｃ，Ｄ付近の溶液のpＨは，電気分解によって，それぞれどのように変化するか。正しい組合せを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①小さくなる 変化しない",
+            "choice2": "②変化しない 大きくなる",
+            "choice3": "③大きくなる 小さくなる",
+            "choice4": "④変化しない 小さくなる",
+            "choice5": "⑤小さくなる 大きくなる",
+            "choice6": "⑥大きくなる 変化しない"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(sentence-term_other)*2",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-007.png"
+        ],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q18",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の記述①～⑤のうちから，誤りを含むものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①エタノールと酢酸は，ともに水素結合をつくりやすい。",
+            "choice2": "②アセトアルデヒドとグルコースは，ともに銀鏡反応を示す。",
+            "choice3": "③酢酸エチルとアセトンは，ともに特有のにおいをもつ。",
+            "choice4": "④ヘキサンとベンゼンは，ともに水によく溶ける。",
+            "choice5": "⑤エチレンとホルムアルデヒドは，ともに常温・常圧で気体である。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q19",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の化合物ア～カのうち，不斉炭素原子をもつ化合物が二つある。その組合せとして正しいものを，以下の①～⑥のうちから一つ選べ。\n【アCH3CH2CH3】【イCH3CH(OH)CH3\n】【ウCH3CH(OH)CH2COOH】【エCH3CH＝CHCH3\n】【オCH2(OH)CH(OH)CH2OH】【カCH3CH(NH2)COOH\n】",
+        "choices": {
+            "choice1": "①イ，エ",
+            "choice2": "②ウ，カ",
+            "choice3": "③エ，オ",
+            "choice4": "④ア，オ",
+            "choice5": "⑤イ，ウ",
+            "choice6": "⑥オ，カ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q20",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の表のＡ欄には，Ｂ欄の化合物を得るための，原料の一つが示してある。ａ～ｅの中には，濃硫酸を触媒として用いる反応が二つある。その組合せとして正しいものを，以下の①～⑤のうちから一つ選べ。\nＡＢ\n【ａベンゼンスルホン酸 フェノール】【\nｂサリチル酸 サリチル酸メチル\n】【ｃベンゼン ブロモベンゼン】\n【ｄエタノール ジエチルエーテル\n】【ｅベンゼン シクロヘキサン】",
+        "choices": {
+            "choice1": "①ａ，ｃ",
+            "choice2": "②ａ，ｅ",
+            "choice3": "③ｂ，ｄ",
+            "choice4": "④ｂ，ｅ",
+            "choice5": "⑤ｃ，ｄ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q21",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の化学反応ア～オのうち，付加反応，還元反応，置換反応は，それぞれどれか。正しい組合せを，以下の①～⑥のうちから一つ選べ。\n【ア酢酸エチルに水を加えて，エタノールと酢酸を得る。】【\nイエチレンに水を反応させて，エタノールを得る。】【\nウトルエンから安息香酸を得る。\n】【エアセトンから2-プロパノールを得る。】【\nオベンゼンに塩素を反応させて，クロロベンゼンを得る。\n】",
+        "choices": {
+            "choice1": "①オエウ",
+            "choice2": "②アイウ",
+            "choice3": "③エウイ",
+            "choice4": "④イウオ",
+            "choice5": "⑤アエイ",
+            "choice6": "⑥イエオ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(term_other-symbol)*3",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q22",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n元素C，H，Oで構成される化合物Ａは，次の条件ア～ウをすべて満足する。化合物Ａの構造として最も適当なものを，以下の①～④のうちから一つ選べ。\n【\nア１molのＡを燃焼させると，二酸化炭素５molと水５molが生じた。\n】【イ１molのＡを１molの水素で還元すると，生成物Ｂが得られた。\n】【ウＢの脱水反応によって，２種類の不飽和炭化水素が生成した。そのうちの一方は，炭素原子がすべて同じ平面にある構造であった。\n】",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "1997",
+        "question_id": "Q23",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\nベンゼン(分子量78)を濃硫酸と濃硝酸でニトロ化し，ニトロベンゼン(分子量123)を得た。さらに，亜鉛と塩酸で還元してアニリン(分子量93)を得た。ニトロ化反応と還元反応の収率は，それぞれ80％と70％であった。ベンゼン39gから得られるアニリンは何gか。最も適当な数値を，以下の①～⑥のうちから一つ選べ。ただし，収率とは，反応式から計算した生成物の量に対する，実験で得られた生成物の量の割合をいう。\n",
+        "choices": {
+            "choice1": "①26",
+            "choice2": "②33",
+            "choice3": "③37",
+            "choice4": "④47",
+            "choice5": "⑤68",
+            "choice6": "⑥86"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-KagakuIB-008.png",
+            "Center-1997--Main-KagakuIB-009.png",
+            "Center-1997--Main-KagakuIB-010.png",
+            "Center-1997--Main-KagakuIB-011.png",
+            "Center-1997--Main-KagakuIB-012.png",
+            "Center-1997--Main-KagakuIB-013.png",
+            "Center-1997--Main-KagakuIB-014.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    }
+]

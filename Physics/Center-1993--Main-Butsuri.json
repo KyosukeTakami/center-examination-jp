@@ -1,0 +1,320 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q1",
+        "label": "問１",
+        "text": "次の問い(問１)の文中1～4の中に入れるのに，最も適した語句を解答群のうちから一つずつ選べ。ただし，同じものを繰り返し選んではいけない。\n\n\n物体の運動について考えよう。\n花子と太郎が，物体の運動の勢いをどのようにして表したらよいかについて議論した。太郎は「物体の運動と逆向きに一定の力を働かせて，物体が止まるまでの時間を測り，その時間と力の大きさを掛けたものを目安にすればよい」と主張した。花子は「それよりも，太郎君と同じように一定の力を働かせて，物体が止まるまでに進む距離を測り，その距離と力の大きさを掛けたものを目安にするほうがよい」と主張した。\nそれを聞いて先生は「太郎君は物体を止めるために必要な1を，また，花子さんは物体が静止するまでに物体が力にさからってする2を目安として考えているわけだ。つまり，太郎君は物体の3で，花子さんは物体の4で運動の勢いを表そうとしているんだよ」と説明した。",
+        "choices": {
+            "choice1": "①移動距離",
+            "choice2": "②速 さ",
+            "choice3": "③加速度",
+            "choice4": "④質 量",
+            "choice5": "⑤運動量",
+            "choice6": "⑤運動エネルギー",
+            "choice7": "⑦位置エネルギー",
+            "choice8": "⑧圧 力",
+            "choice9": "⑨力 積",
+            "choice10": "仕 事\n"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other",
+        "knowledge_type": "KS,DM_P3,DM_P4",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "6",
+        "score": "2"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q2",
+        "label": "問５",
+        "text": "理想気体分子の運動について考えよう。\n【ア．ある温度での，気体分子の平均の運動エネルギーは，分子の質量が大きい気体ほど大きい。\n】【イ．容積一定の容器に入れられた一定量の気体が壁に及ぼす圧力は，気体分子の平均の運動エネルギーに比例する。\n】\n\n原子核の変化について考えよう。\n【ア．半減期15時間の24Na原子核の数は45時間後には元の数のになる。\n】【イ．陽子と中性子の質量の和は，それらが結合してできる重水素原子核の質量より大きい。\n】",
+        "choices": {
+            "choice1": "①〇 〇",
+            "choice2": "②〇 ×",
+            "choice3": "③× ×",
+            "choice4": "④× ×"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*2",
+        "knowledge_type": "KS,DM_P5",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q3",
+        "label": "問１",
+        "text": "\n\n図１のように，広い水平な台の上に質量mの小さい物体Aがある。Aには長さlの軽くて伸び縮みしない糸がつけられている。糸の他端は台から高さhだけ上の点Pに固定されている。Aが台の上でPの真下の位置Oを中心とする角速度(?の等速円運動をする場合を考える。ただし，重力加速度の大きさをgとし，台とAとの間の摩擦および空気の抵抗は無視できるものとする。次の問い(問１～５)の答えを，それぞれの解答群のうちから一つずつ選べ。\n\n\nAの運動エネルギーはいくらか。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-001.png",
+            "Center-1993--Main-Butsuri-002.png"
+        ],
+        "correct_answer": "5",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q4",
+        "label": "問２",
+        "text": "\n\n図１のように，広い水平な台の上に質量mの小さい物体Aがある。Aには長さlの軽くて伸び縮みしない糸がつけられている。糸の他端は台から高さhだけ上の点Pに固定されている。Aが台の上でPの真下の位置Oを中心とする角速度(?の等速円運動をする場合を考える。ただし，重力加速度の大きさをgとし，台とAとの間の摩擦および空気の抵抗は無視できるものとする。次の問い(問１～５)の答えを，それぞれの解答群のうちから一つずつ選べ。\n\n\n糸の張力はいくらか。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-001.png",
+            "Center-1993--Main-Butsuri-002.png"
+        ],
+        "correct_answer": "2",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q5",
+        "label": "問４",
+        "text": "Aが台からうける抗力Nと角速度(?の関係を表す図として正しいものはどれか。\n\n\n角速度(?がある値より大きくなると，Aは台から離れる。その値はいくらか。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-002.png"
+        ],
+        "correct_answer": "2",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q6",
+        "label": "問５",
+        "text": "Aが台からうける抗力Nと角速度(?の関係を表す図として正しいものはどれか。\n\n\nAが台から離れないで運動しているとき，Aが図１の点Qに来た瞬間に糸を切ったとすれば，Aはその後どのような運動をするか。\n",
+        "choices": {
+            "choice1": "①の向きに進んでいく。",
+            "choice2": "②Qにおける円の接線に沿って進んでいく。",
+            "choice3": "③Oのまわりを回りながら，Oから遠ざかっていく。",
+            "choice4": "④Oのまわりを回りながら，Oに近づいていく。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-002.png"
+        ],
+        "correct_answer": "2",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q7",
+        "label": "問２",
+        "text": "抵抗r2を流れる電流の大きさIが，電流計Mを流れる電流の大きさIMの10倍となるように抵抗r1を選んだ。このときのr1の抵抗値をΩと表すと，aとbはそれぞれいくらか。\n\n\n抵抗r1を問１のように選んで，図２の端子CとDとの間を，未知抵抗Rのかわりに抵抗のない導線でつないだとき，電流計Mを流れる電流がmＡとなるように抵抗r2を選んだ。このときのAC間の合成抵抗の値をΩと表すと，cとdはそれぞれいくらか。\n",
+        "choices": {
+            "choice1": "①1.0",
+            "choice2": "②1.2",
+            "choice3": "③1.5",
+            "choice4": "④1.8",
+            "choice5": "⑤2.0",
+            "choice6": "⑥2.2",
+            "choice7": "①",
+            "choice8": "②",
+            "choice9": "③",
+            "choice10": "④0",
+            "choice11": "⑤1",
+            "choice12": "⑥2",
+            "choice13": "⑦3"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "6",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q8",
+        "label": "問４",
+        "text": "抵抗r1およびr2を問１，問２のように選び，端子CとDとの間に未知抵抗Rをつないだ。RとIMとの関係をグラフで表すと，次のどれが正しいか。\n\n\n金属棒がab，deの部分の上にあり，一定の速さv[m/s]で動いているとき，金属棒内に発生する誘導起電力V[Ｖ]はいくらか。また，金属棒を動かし続けるために必要な力F[Ｎ]はいくらか。ただし，起電力はP→Qの向きを正とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦0",
+            "choice8": "①",
+            "choice9": "②",
+            "choice10": "③",
+            "choice11": "④",
+            "choice12": "⑤",
+            "choice13": "⑥0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-004.png"
+        ],
+        "correct_answer": "6",
+        "score": "6"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q9",
+        "label": "問５",
+        "text": "抵抗r1およびr2を問１，問２のように選び，端子CとDとの間に未知抵抗Rをつないだ。RとIMとの関係をグラフで表すと，次のどれが正しいか。\n\n\n金属棒がbc，efの部分に移動してきたとき，前と同じ一定の速さv[m/s]を保って金属棒を動かし続けるためには，どれだけの力[Ｎ]で糸を引けばよいか。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-004.png"
+        ],
+        "correct_answer": "4",
+        "score": "6"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q10",
+        "label": "問１",
+        "text": "\n\nコンパクトディスク(CD)に光があたると虹のような色が見える。そのしくみを理解するために，CDを多数の溝が直線状に等間隔できざまれている反射板とみなすことにする。図４のように，この反射板を水平に置いて，光が真上から入射する場合を考えてみよう。ホイヘンスの原理を用いて考えれば，溝によって隔てられた各平面部分から素光波が出る。図４では，それらの素光波が互いに干渉し合うようすを，溝に垂直な鉛直面内で模式的に描いてある。この鉛直面内でいろいろな方向から，光の強さを観測してみる。観測方向が鉛直線となす角度を??，隣り合う平面部分の間隔をdとし，以下の問い(問１～３)の答えを，それぞれの解答群のうちから一つずら選べ。\nＡ入射光が波長(?の単色光である場合を考えよう。\n\n\nＢ次に，入射光が波長400nm～700nmの範囲の可視光を含んだ白色光である場合を考えよう。ただし，反射板上で溝は1cmあたり6250本きざまれているものとする。また，1nm10−9mである。\n\n光が強め合うのは，d，?，??の間に特定の関係が成り立つときである。それを表す式は次の①～⑧のうちのどれか。ただし，mは整数である。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-006.png",
+            "Center-1993--Main-Butsuri-007.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q11",
+        "label": "問２",
+        "text": "\n\nコンパクトディスク(CD)に光があたると虹のような色が見える。そのしくみを理解するために，CDを多数の溝が直線状に等間隔できざまれている反射板とみなすことにする。図４のように，この反射板を水平に置いて，光が真上から入射する場合を考えてみよう。ホイヘンスの原理を用いて考えれば，溝によって隔てられた各平面部分から素光波が出る。図４では，それらの素光波が互いに干渉し合うようすを，溝に垂直な鉛直面内で模式的に描いてある。この鉛直面内でいろいろな方向から，光の強さを観測してみる。観測方向が鉛直線となす角度を??，隣り合う平面部分の間隔をdとし，以下の問い(問１～３)の答えを，それぞれの解答群のうちから一つずら選べ。\nＡ入射光が波長(?の単色光である場合を考えよう。\n\n\nＢ次に，入射光が波長400nm～700nmの範囲の可視光を含んだ白色光である場合を考えよう。ただし，反射板上で溝は1cmあたり6250本きざまれているものとする。また，1nm10−9mである。\n\n観測する方向(?を0°から増加させていく。まず，で強い反射が起こっているが，それを観測するのはむずかしい。(?を次第に大きくしていくと，角度?1で強い光が見えはじめ，それは(?の増加とともに色を変えながら，?2まで観測される。図５を参照して，?1と?2のおおよその値を求めよ。\n",
+        "choices": {
+            "choice1": "①7°",
+            "choice2": "②12°",
+            "choice3": "③15°",
+            "choice4": "④22°",
+            "choice5": "⑤26°",
+            "choice6": "⑥30°",
+            "choice7": "⑦41°",
+            "choice8": "⑧49°",
+            "choice9": "⑨60° 65° 76° 83°"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-006.png",
+            "Center-1993--Main-Butsuri-007.png"
+        ],
+        "correct_answer": "5",
+        "score": "6"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "Butsuri(main exam)",
+        "year": "1993",
+        "question_id": "Q12",
+        "label": "問３",
+        "text": "\n\nコンパクトディスク(CD)に光があたると虹のような色が見える。そのしくみを理解するために，CDを多数の溝が直線状に等間隔できざまれている反射板とみなすことにする。図４のように，この反射板を水平に置いて，光が真上から入射する場合を考えてみよう。ホイヘンスの原理を用いて考えれば，溝によって隔てられた各平面部分から素光波が出る。図４では，それらの素光波が互いに干渉し合うようすを，溝に垂直な鉛直面内で模式的に描いてある。この鉛直面内でいろいろな方向から，光の強さを観測してみる。観測方向が鉛直線となす角度を??，隣り合う平面部分の間隔をdとし，以下の問い(問１～３)の答えを，それぞれの解答群のうちから一つずら選べ。\nＡ入射光が波長(?の単色光である場合を考えよう。\n\n\nＢ次に，入射光が波長400nm～700nmの範囲の可視光を含んだ白色光である場合を考えよう。ただし，反射板上で溝は1cmあたり6250本きざまれているものとする。また，1nm10−9mである。\n\n問２に述べた観測の方向(?が?1から?2まで増加するとき，光の色が変化する順序は次の①～④のうちのどれか。\n",
+        "choices": {
+            "choice1": "①赤，黄，緑，青，紫",
+            "choice2": "②赤，緑，青，黄，紫",
+            "choice3": "③紫，青，緑，黄，赤",
+            "choice4": "④紫，黄，青，緑，赤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1993--Main-Butsuri-006.png",
+            "Center-1993--Main-Butsuri-007.png"
+        ],
+        "correct_answer": "3",
+        "score": "3"
+    }
+]

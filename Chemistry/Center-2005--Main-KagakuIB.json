@@ -1,0 +1,747 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q1",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\n【ａ２個の水素原子から水素分子ができるときのしくみに最も関係の深いもの】",
+        "choices": {
+            "choice1": "①陽子の共有",
+            "choice2": "②電子の共有",
+            "choice3": "③中性子の共有",
+            "choice4": "④陽子と中性子の反発",
+            "choice5": "⑤陽子と電子の反発",
+            "choice6": "⑥中性子と電子の反発"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q2",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\n【ｂイオン化エネルギーの大きい順に並べたもの】",
+        "choices": {
+            "choice1": "①He＞H＞Li",
+            "choice2": "②He＞Li＞H",
+            "choice3": "③H＞Li＞He",
+            "choice4": "④H＞He＞Li",
+            "choice5": "⑤Li＞H＞He",
+            "choice6": "⑥Li＞He＞H"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q3",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\n【ｃ塩素の同位体どうしで異なるもの】",
+        "choices": {
+            "choice1": "①価電子数",
+            "choice2": "②原子番号",
+            "choice3": "③全電子数",
+            "choice4": "④中性子数",
+            "choice5": "⑤陽子数",
+            "choice6": "⑥イオンの価数"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "4",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q4",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\n【ｄ沸点の高い順に並べたもの】",
+        "choices": {
+            "choice1": "①エタン＞エタノール＞メタン",
+            "choice2": "②エタン＞メタン＞エタノール",
+            "choice3": "③メタン＞エタノール＞エタン",
+            "choice4": "④メタン＞エタン＞エタノール",
+            "choice5": "⑤エタノール＞エタン＞メタン",
+            "choice6": "⑥エタノール＞メタン＞エタン"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q5",
+        "label": "問２",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n電気陰性度および分子の極性に関する記述として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①共有結合からなる分子では，電気陰性度の小さい原子は，電子をより強く引きつける。",
+            "choice2": "②第２周期の元素のうちで，電気陰性度が最も大きいのはリチウムである。",
+            "choice3": "③ハロゲン元素のうちで，電気陰性度が最も大きいのはフッ素である。",
+            "choice4": "④同種の原子からなる二原子分子は極性をもつ。",
+            "choice5": "⑤酸素原子と炭素原子の電気陰性度には差があるので，二酸化炭素は極性分子である。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q6",
+        "label": "問３",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n化学結合に関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①アンモニウムイオンの４個のN−H結合の性質は，互いに区別できない。",
+            "choice2": "②ナフタレン分子の原子間の結合は共有結合である。",
+            "choice3": "③塩化ナトリウムの結晶はイオン結合からなる。",
+            "choice4": "④ダイヤモンドでは，炭素原子が共有結合でつながっている。",
+            "choice5": "⑤金属ナトリウムでは，ナトリウム原子の価電子は，金属全体を自由に動くことができない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q7",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n蒸気圧に関する次の文章中の空欄ａ・ｂに当てはまる数値の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。ただし，気体は理想気体とし，気体定数はR＝0.082atm・l/(Ｋ・mol)とする。\n図１は水の蒸気圧曲線を示す。大気圧0.80atmで水はａ℃で沸騰する。また，水0.10molを容積22.4lの真空容器に入れたとき，60℃において容器内の圧力はｂatmである。",
+        "choices": {
+            "choice1": "①94 0.10",
+            "choice2": "②94 0.12",
+            "choice3": "③94 0.20",
+            "choice4": "④100 0.10",
+            "choice5": "⑤100 0.12",
+            "choice6": "⑥100 0.20"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-001.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q8",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n物質の状態に関する記述として下線部に誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①ピストン付き密閉容器内の気体の温度を一定にしたまま体積を小さくすると，【単位時間・単位面積あたり容器の壁に衝突する分子の数が増える。】",
+            "choice2": "②温度を上げると気体中の分子の拡散が速くなるのは，【気体の分子がエネルギーを得て，その運動が活発になるからである。】",
+            "choice3": "③蒸気圧が一定の密閉容器内では，【液体の表面から飛び出した分子は再び液体中に戻らない。】",
+            "choice4": "④大気中に放置したビーカー中の液体が蒸発して次第にその量が減少するのは，【蒸発した分子が空気中に拡散していくからである。】",
+            "choice5": "⑤固体から液体へ状態が変化すると，この物質を構成する分子は，【融解熱に相当するエネルギーを得て，自由に移動できるようになる。】"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-001.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q9",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次に示す濃度0.10mol/kgの水溶液ａ～ｃについて，沸点の高い順に並べたものとして正しいものを，以下の①～⑥のうちから一つ選べ。\n【ａ塩化マグネシウム水溶液】【ｂ尿素水溶液\n】【ｃ塩化カリウム水溶液\n】",
+        "choices": {
+            "choice1": "①ａ＞ｂ＞ｃ",
+            "choice2": "②ａ＞ｃ＞ｂ",
+            "choice3": "③ｂ＞ａ＞ｃ",
+            "choice4": "④ｂ＞ｃ＞ａ",
+            "choice5": "⑤ｃ＞ａ＞ｂ",
+            "choice6": "⑥ｃ＞ｂ＞ａ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol-symbol",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-001.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q10",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n酸素は1.0atmのもとで1.0lの水に対して，４℃では2.0×10−3mol，40℃では1.0×10−3mol溶ける。40℃，2.0atmのもとで2.0lの水に溶ける酸素の量は，４℃，1.0atmのもとで1.0lの水に溶ける量の何倍か。最も適当な数値を，次の①～⑤のうちから一つ選べ。ただし，酸素は十分な量存在するものとする。\n",
+        "choices": {
+            "choice1": "①0.25",
+            "choice2": "②0.50",
+            "choice3": "③1.0",
+            "choice4": "④2.0",
+            "choice5": "⑤4.0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-001.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q11",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n水溶液中で水素イオンと水酸化物イオンから水１molが生じるとき，56.5kＪの中和熱が発生する。また，水に溶けているアンモニア１molと硝酸１mol(電離度１とする)が反応するときの反応熱は51.5kＪである。水に溶けているアンモニアが水と反応して，アンモニウムイオンが生じるときに出入りする熱量として最も適当なものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①5.0kＪ/molの吸熱",
+            "choice2": "②54.0kＪ/molの吸熱",
+            "choice3": "③108.0kＪ/molの吸熱",
+            "choice4": "④5.0kＪ/molの発熱",
+            "choice5": "⑤54.0kＪ/molの発熱",
+            "choice6": "⑥108.0kＪ/molの発熱"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-001.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q12",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n酸と塩基に関する記述として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①酸や塩基の電離度は濃度によらない。",
+            "choice2": "②水酸化バリウム水溶液に希硫酸を加えていくと沈殿が生じ，中和点では水に溶けているイオンの濃度が最小になる。",
+            "choice3": "③1.0×10−2mol/lの硫酸中の水素イオン濃度は1.0×10−2mol/lである。",
+            "choice4": "④1.0×10−4mol/lの塩酸を水で104倍に薄めると，pＨは８になる。",
+            "choice5": "⑤酢酸ナトリウム水溶液は弱酸性である。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q13",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の記述ａ～ｃ中の空欄ア～ウに当てはまる陽イオンの組合せとして最も適当なものを，以下の①～⑧のうちから一つ選べ。\nａ陽イオンアを含む水溶液にクロム酸カリウム水溶液を加えると，黄色の沈殿が生じた。\nｂ陽イオンイを含む水溶液に水酸化ナトリウム水溶液を加えると，赤褐色の沈殿が生じた。\nｃ陽イオンウを含む酸性水溶液に硫化水素を通じると，黒色の沈殿が生じた。",
+        "choices": {
+            "choice1": "①Pb2＋Ca2＋Zn2＋",
+            "choice2": "②Pb2＋Ca2＋Cu2＋",
+            "choice3": "③Pb2＋Fe3＋Zn2＋",
+            "choice4": "④Pb2＋Fe3＋Cu2＋",
+            "choice5": "⑤Na＋Ca2＋Zn2＋",
+            "choice6": "⑥Na＋Ca2＋Cu2＋",
+            "choice7": "⑦Na＋Fe3＋Zn2＋",
+            "choice8": "⑧Na＋Fe3＋Cu2＋"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q14",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n下線部の物質が酸化剤として働いている化学反応式として最も適当なものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①2K ＋ 2H2O 2KOH ＋ H2",
+            "choice2": "②2H2S ＋ SO2 3S ＋ 2H2O",
+            "choice3": "③H2SO4 ＋ 2NaCl Na2SO4 ＋ 2HCl",
+            "choice4": "④NaOH ＋ Al(OH)3 Na[Al(OH)4]",
+            "choice5": "⑤2HCl ＋ Zn ZnCl2 ＋ H2"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q15",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n水溶液の電気分解と電気伝導性に関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①水を電気分解するとき，酸化・還元されにくい電解質を加えるのは，電気を通しやすくするためである。",
+            "choice2": "②0.1mol/lの酢酸水溶液は，同じ濃度の塩酸より電気を通しにくい。",
+            "choice3": "③塩化ナトリウム水溶液を電気分解すると，陽極(黒鉛)で塩素が発生する。",
+            "choice4": "④硝酸銀水溶液を電気分解すると，陰極(白金)に銀が析出する。",
+            "choice5": "⑤ヨウ化カリウム水溶液を電気分解すると，陰極(黒鉛)の周辺の溶液が褐色になる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q16",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図１に示すダニエル電池に関する次の記述ａ～ｃについて，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。ただし，ファラデー定数は96500Ｃ/molとする。\n【ａ正極では銅(Ⅱ)イオンが還元される。\n】【ｂ正極と負極の質量の和は常に一定である。\n】【ｃ0.020molの亜鉛が反応したとき，発生する電気量の最大値は1930Ｃである。】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "TF-TF-TF",
+        "knowledge_type": "KS,IC_O,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q17",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図２はアンモニアソーダ法(ソルベー法)によって炭酸ナトリウムが製造される過程である。アンモニアソーダ法に関する記述として誤りを含むものを，以下の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①塩化ナトリウム飽和水溶液に二酸化炭素とアンモニアを吹き込んで，塩化アンモニウムを沈殿させる。",
+            "choice2": "②炭酸カルシウムを加熱すると，酸性酸化物(気体)と塩基性酸化物(固体)が生成する。",
+            "choice3": "③塩化アンモニウムと水酸化カルシウムを反応させると，アンモニア，塩化カルシウムおよび水が生成する。",
+            "choice4": "④アンモニアは回収してアンモニアソーダ法の中で再利用する。",
+            "choice5": "⑤発生する二酸化炭素をすべて利用すると，炭酸ナトリウムの製造に必要な炭酸カルシウムの物質量は塩化ナトリウムのである。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-002.jpg",
+            "Center-2005--Main-KagakuIB-003.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q18",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n金属の反応に関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①カルシウムは，水と反応して水素を発生する。",
+            "choice2": "②アルミニウムは，希塩酸と反応して水素を発生する。",
+            "choice3": "③亜鉛は，濃い水酸化ナトリウム水溶液と反応して水素を発生する。",
+            "choice4": "④銅は，希硫酸と反応して水素を発生する。",
+            "choice5": "⑤白金は，濃塩酸と濃硝酸の混合物である王水には反応して溶ける。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-004.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q19",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\nある金属Mの塩化物は，組成式MCl2・2H2Oの水和物をつくる。この水和物294mgを加熱して完全に無水物にしたところ，質量は222mgになった。この金属の原子量として最も適当な数値を，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①24",
+            "choice2": "②40",
+            "choice3": "③56",
+            "choice4": "④88",
+            "choice5": "⑤112"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-004.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q20",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\nハロゲンの単体および化合物に関する記述として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①臭素とヨウ素は，どちらも常温・常圧で液体である。",
+            "choice2": "②フッ素は，ハロゲンの単体の中で最も還元されやすい。",
+            "choice3": "③ハロゲンの単体は，いずれも常温・常圧で水と反応して酸素を発生する。",
+            "choice4": "④フッ化水素の水溶液は，ハロゲン化水素の水溶液の中で最も強い酸性を示す。",
+            "choice5": "⑤フッ化水素は，ハロゲン化水素の中で最も沸点が低い。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-004.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q21",
+        "label": "",
+        "text": "錯イオンに関する次の記述ａ中の空欄ア・イおよび記述ｂ中の空欄ウ・エに当てはまる語および数値の組合せとして最も適当なものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\nａ硫酸銅(Ⅱ)の水溶液にアンモニア水を加えていくと青白色の沈殿が生じる。さらにアンモニア水を加えると沈殿は溶解し，配位数が４の銅の錯イオンを含むアの溶液となる。この錯イオンの形はイである。",
+        "choices": {
+            "choice1": "①赤褐色 正四面体",
+            "choice2": "②赤褐色 正方形",
+            "choice3": "③赤褐色 正八面体",
+            "choice4": "④深青色 正四面体",
+            "choice5": "⑤深青色 正方形",
+            "choice6": "⑥深青色 正八面体"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other-term_other",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "2"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q22",
+        "label": "",
+        "text": "錯イオンに関する次の記述ａ中の空欄ア・イおよび記述ｂ中の空欄ウ・エに当てはまる語および数値の組合せとして最も適当なものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n\nｂ塩化銀は水に溶けにくいが，アンモニア水には溶けて銀の錯イオンを含む無色の溶液となる。この錯イオンはジアンミン銀(Ⅰ)イオンとよばれ，配位数はウ，配位子はエである。",
+        "choices": {
+            "choice1": "①２ 塩化物イオン",
+            "choice2": "②２ アンモニア分子",
+            "choice3": "③２ 水酸化物イオン",
+            "choice4": "④４ 塩化物イオン",
+            "choice5": "⑤４ アンモニア分子",
+            "choice6": "⑥４ 水酸化物イオン"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula-term_other",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "2",
+        "score": "2"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q23",
+        "label": "問５",
+        "text": "錯イオンに関する次の記述ａ中の空欄ア・イおよび記述ｂ中の空欄ウ・エに当てはまる語および数値の組合せとして最も適当なものを，それぞれの解答群の①～⑥のうちから一つずつ選べ。\n\n\n図１は中和滴定曲線である。この滴定にはメチルオレンジ(変色域はpＨ3.1～4.4)またはフェノールフタレイン(変色域はpＨ8.3～10.0)を指示薬として用いた。このことに関する記述として正しいものを，以下の①～⑧のうちから二つ選べ。ただし，解答の順序は問わない。\n",
+        "choices": {
+            "choice1": "①0.10mol/lの水酸化ナトリウム水溶液20mlに，0.10mol/lの塩酸を滴下していくと，曲線Ａ(実線)が得られる。",
+            "choice2": "②0.10mol/lの塩酸20mlに，0.10mol/lのアンモニア水を滴下していくと，曲線Ａ(実線)が得られる。",
+            "choice3": "③0.10mol/lの酢酸水溶液10mlに，0.05mol/lの水酸化ナトリウム水溶液を滴下していくと，曲線Ｂ(点線)が得られる。",
+            "choice4": "④0.10mol/lの硝酸10mlに，0.05mol/lの水酸化ナトリウム水溶液を滴下していくと，曲線Ｂ(点線)が得られる。",
+            "choice5": "⑤曲線Ａ(実線)の滴定のときに，中和点(終点)の指示薬としてメチルオレンジは使えない。",
+            "choice6": "⑥曲線Ａ(実線)の滴定のときに，中和点(終点)の指示薬としてフェノールフタレインは使えない。",
+            "choice7": "⑦曲線Ｂ(点線)の滴定のときに，中和点(終点)の指示薬としてメチルオレンジは使えない。",
+            "choice8": "⑧曲線Ｂ(点線)の滴定のときに，中和点(終点)の指示薬としてフェノールフタレインは使えない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_G,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-004.jpg"
+        ],
+        "correct_answer": "3|7",
+        "score": "2"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q24",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n脂肪族飽和炭化水素について，鎖式(鎖状)か環式(環状)のどちらか一方の炭化水素のみに当てはまる記述を，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①炭素原子と水素原子だけからできている。",
+            "choice2": "②構成している水素原子の数は奇数である。",
+            "choice3": "③炭素数が一つ増えると，分子量は15増える。",
+            "choice4": "④分子式は，CnH2n＋2で表される。",
+            "choice5": "⑤炭素原子間に二重結合がない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q25",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n有機化合物の異性体に関する記述として正しいものを，次の①～⑥のうちから二つ選べ。ただし，解答の順序は問わない。\n",
+        "choices": {
+            "choice1": "①マレイン酸とフマル酸は，互いに構造異性体である。",
+            "choice2": "②フタル酸とテレフタル酸は，互いに幾何異性体(シス-トランス異性体)である。",
+            "choice3": "③ブタンと2-メチルプロパンは，互いに光学異性体である。",
+            "choice4": "④エタノールとジメチルエーテルは，互いに構造異性体である。",
+            "choice5": "⑤1-ブテンには，幾何異性体(シス-トランス異性体)がある。",
+            "choice6": "⑥アラニンには，光学異性体がある。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "4|6",
+        "score": "2"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q26",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の記述ａ～ｃに当てはまる物質の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n【ａ濃硝酸と濃硫酸の混合物を加えて温めると，置換反応が起こる。\n】【ｂヨウ素と水酸化ナトリウム水溶液を加えて温めると，ヨードホルムが生成する。】【\nｃフェーリング液に加えて煮沸すると，赤色沈殿が生じる。\n】",
+        "choices": {
+            "choice1": "①CH3−CH3",
+            "choice2": "②CH3−CH3C2H5−O−C2H5",
+            "choice3": "③",
+            "choice4": "④C2H5−O−C2H5",
+            "choice5": "⑤",
+            "choice6": "⑥C2H5−O−C2H5"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,IC_O,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q27",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n実験室で合成した酢酸エチルを精製するために図１の蒸留装置を組み立てた。点線で囲んだ部分Ａ～Ｃに関する記述ア～キについて，正しいものの組合せとして最も適当なものを，以下の①～⑧のうちから一つ選べ。\n〔部分Ａ〕\n沸騰石を入れているのは，\n【アフラスコ内の液体の突沸を防ぐためである。】【\nイフラスコ内の液体の温度を速く上げるためである。\n】\n〔部分Ｂ〕\n蒸留されて出てくる成分の沸点を正しく確認するために，\n【ウ温度計の最下端を液中に入れる。\n】【エ温度計の最下端を液面のすぐ近くまで下げる。\n】【オ温度計の最下端を枝管の付け根の高さまで上げる。\n】\n〔部分Ｃ〕\n冷却水を流す方向は，【\nカ矢印の方向でよい。\n】【キ矢印の方向とは逆にする。\n】",
+        "choices": {
+            "choice1": "①アウカ",
+            "choice2": "②アエキ",
+            "choice3": "③アオカ",
+            "choice4": "④アオキ",
+            "choice5": "⑤イウカ",
+            "choice6": "⑥イウキ",
+            "choice7": "⑦イエカ",
+            "choice8": "⑧イオキ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol-symbol",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q28",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n酸素原子を含む有機化合物に関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①エタノールと濃硫酸を130～140℃で反応させると，水分子がとれてジエチルエーテルが生じる。",
+            "choice2": "②カルボン酸とアルコールを反応させると，水分子がとれてエステルが生じる。",
+            "choice3": "③アルデヒドを還元すると，第一級アルコールが生じる。",
+            "choice4": "④第二級アルコールを酸化すると，ケトンが生じる。",
+            "choice5": "⑤第三級アルコールは，第一級アルコールよりも容易に酸化できる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2005",
+        "question_id": "Q29",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n分子式C8HnO2で示される有機化合物がある。この化合物34mgを完全燃焼させたところ18mgの水が生じた。この分子式中の水素原子の数nとして正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①８",
+            "choice2": "②10",
+            "choice3": "③12",
+            "choice4": "④14",
+            "choice5": "⑤16"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-KagakuIB-005.png",
+            "Center-2005--Main-KagakuIB-006.png",
+            "Center-2005--Main-KagakuIB-007.png",
+            "Center-2005--Main-KagakuIB-008.png",
+            "Center-2005--Main-KagakuIB-013.png",
+            "Center-2005--Main-KagakuIB-010.png",
+            "Center-2005--Main-KagakuIB-018.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    }
+]

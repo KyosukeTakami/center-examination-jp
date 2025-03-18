@@ -1,0 +1,489 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q1",
+        "label": "問３",
+        "text": "二つの等量の正電荷のまわりの電気力線を表している図はどれか。次の①～④のうちから正しいものを一つ選べ。ただし，電気力線の向きを表す矢印は省略してある。\n\n\nはじめNであった放射性原子の数が，時間Tの後には崩壊によってになったとする。この後さらにTだけ時間が経過したとすると，放射性原子の数はいくつになると考えられるか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①0",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-002.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q2",
+        "label": "問１",
+        "text": "\n\n次の文章を読み，以下の問い(問１～４)に答えよ。\n図１のようになめらかな斜面ABとそれにつづく水平面があり，斜面上の点Aに質量mの小物体を置く。点Aから静かにすべり出した小物体は点Bから空中に飛び出し，水平面上の点Cに落下する。点Aの水平面からの高さはh，点Bで飛び出すときの速さはv0，そのときの角度は水平面に対し(?()とする。また，重力加速度をgとし，空気の抵抗は無視できるものとする\n\n点Bでの小物体の速さv0はいくらか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q3",
+        "label": "問２",
+        "text": "\n\n次の文章を読み，以下の問い(問１～４)に答えよ。\n図１のようになめらかな斜面ABとそれにつづく水平面があり，斜面上の点Aに質量mの小物体を置く。点Aから静かにすべり出した小物体は点Bから空中に飛び出し，水平面上の点Cに落下する。点Aの水平面からの高さはh，点Bで飛び出すときの速さはv0，そのときの角度は水平面に対し(?()とする。また，重力加速度をgとし，空気の抵抗は無視できるものとする\n\n点Bを飛び出した小物体はある時間の後，軌道の最高点に達する。水平面から測った最高点の高さはいくらか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q4",
+        "label": "問３",
+        "text": "\n\n次の文章を読み，以下の問い(問１～４)に答えよ。\n図１のようになめらかな斜面ABとそれにつづく水平面があり，斜面上の点Aに質量mの小物体を置く。点Aから静かにすべり出した小物体は点Bから空中に飛び出し，水平面上の点Cに落下する。点Aの水平面からの高さはh，点Bで飛び出すときの速さはv0，そのときの角度は水平面に対し(?()とする。また，重力加速度をgとし，空気の抵抗は無視できるものとする\n\n小物体は最高点を通過したのち点Cに落下する。2点BC間の水平距離xはいくらか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q5",
+        "label": "問４",
+        "text": "\n\n次の文章を読み，以下の問い(問１～４)に答えよ。\n図１のようになめらかな斜面ABとそれにつづく水平面があり，斜面上の点Aに質量mの小物体を置く。点Aから静かにすべり出した小物体は点Bから空中に飛び出し，水平面上の点Cに落下する。点Aの水平面からの高さはh，点Bで飛び出すときの速さはv0，そのときの角度は水平面に対し(?()とする。また，重力加速度をgとし，空気の抵抗は無視できるものとする\n\n角度(?をいくらにとると，水平到達距離xが最大となるか。次の①～⑤のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①30°",
+            "choice2": "②40°",
+            "choice3": "③45°",
+            "choice4": "④50°",
+            "choice5": "⑤60°"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q6",
+        "label": "問１",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡ質量0.50kgのおもりに軽くて細い棒をつけ，図２のように棒のおもりに近い部分を手でつかんで静止させる。手の位置は変えずに力を少しゆるめ，摩擦力を一定に保ちながらおもりに等加速度運動をさせたところ，はじめの1.0秒間に0.50m降下した。ただし，重力加速度を9.8m/s2とする。\n\n\nＢ自由に動くピストンを備えた円筒容器Aが1気圧の大気中に置かれている。容器には気体がつめられている。はじめ気体の絶対温度はT0であり，ピストンは図３のように容器の底から?の位置にある。\n\nおもりの加速度の大きさはいくらか。次の①～⑤のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①0.50",
+            "choice2": "②1.0",
+            "choice3": "③2.0",
+            "choice4": "④4.9",
+            "choice5": "⑤9.8"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_P,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-004.png",
+            "Center-1997--Main-ButsuriIB-005.png",
+            "Center-1997--Main-ButsuriIB-006.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q7",
+        "label": "問２",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡ質量0.50kgのおもりに軽くて細い棒をつけ，図２のように棒のおもりに近い部分を手でつかんで静止させる。手の位置は変えずに力を少しゆるめ，摩擦力を一定に保ちながらおもりに等加速度運動をさせたところ，はじめの1.0秒間に0.50m降下した。ただし，重力加速度を9.8m/s2とする。\n\n\nＢ自由に動くピストンを備えた円筒容器Aが1気圧の大気中に置かれている。容器には気体がつめられている。はじめ気体の絶対温度はT0であり，ピストンは図３のように容器の底から?の位置にある。\n\n0.50m降下したときのおもりの速さはいくらか。次の①～⑤のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①0.50",
+            "choice2": "②1.0",
+            "choice3": "③2.0",
+            "choice4": "④4.9",
+            "choice5": "⑤9.8"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_P,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-004.png",
+            "Center-1997--Main-ButsuriIB-005.png",
+            "Center-1997--Main-ButsuriIB-006.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q8",
+        "label": "問３",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡ質量0.50kgのおもりに軽くて細い棒をつけ，図２のように棒のおもりに近い部分を手でつかんで静止させる。手の位置は変えずに力を少しゆるめ，摩擦力を一定に保ちながらおもりに等加速度運動をさせたところ，はじめの1.0秒間に0.50m降下した。ただし，重力加速度を9.8m/s2とする。\n\n\nＢ自由に動くピストンを備えた円筒容器Aが1気圧の大気中に置かれている。容器には気体がつめられている。はじめ気体の絶対温度はT0であり，ピストンは図３のように容器の底から?の位置にある。\n\nおもりが0.50m降下したはじめの1.0秒間に手と棒の間で発生した熱量は，位置エネルギーの変化量のほぼ何％に当たるか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①10",
+            "choice2": "②40",
+            "choice3": "③70",
+            "choice4": "④90"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_P,DM_P3,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-004.png",
+            "Center-1997--Main-ButsuriIB-005.png",
+            "Center-1997--Main-ButsuriIB-006.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q9",
+        "label": "問４",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡ質量0.50kgのおもりに軽くて細い棒をつけ，図２のように棒のおもりに近い部分を手でつかんで静止させる。手の位置は変えずに力を少しゆるめ，摩擦力を一定に保ちながらおもりに等加速度運動をさせたところ，はじめの1.0秒間に0.50m降下した。ただし，重力加速度を9.8m/s2とする。\n\n\nＢ自由に動くピストンを備えた円筒容器Aが1気圧の大気中に置かれている。容器には気体がつめられている。はじめ気体の絶対温度はT0であり，ピストンは図３のように容器の底から?の位置にある。\n\n容器Aの気体の温度をT0からtだけ上昇させるとピストンはゆっくり移動して再びつりあった。このとき，Aの気体の入っている部分の長さはいくらになるか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-004.png",
+            "Center-1997--Main-ButsuriIB-005.png",
+            "Center-1997--Main-ButsuriIB-006.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q10",
+        "label": "問５",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡ質量0.50kgのおもりに軽くて細い棒をつけ，図２のように棒のおもりに近い部分を手でつかんで静止させる。手の位置は変えずに力を少しゆるめ，摩擦力を一定に保ちながらおもりに等加速度運動をさせたところ，はじめの1.0秒間に0.50m降下した。ただし，重力加速度を9.8m/s2とする。\n\n\nＢ自由に動くピストンを備えた円筒容器Aが1気圧の大気中に置かれている。容器には気体がつめられている。はじめ気体の絶対温度はT0であり，ピストンは図３のように容器の底から?の位置にある。\n\n容器Aと同一のもう一つの容器Bを用意し，二つのピストンを図４のように連結して両方の容器を机に固定した。容器AとBには温度T0の等量の同じ気体がつめられ，ピストンはそれぞれの容器の底から(の位置にあってつりあっている。容器Aの気体の温度はT0に保ち，容器Bの気体の温度をtだけゆっくり下降させたところ，ピストンはBの方に移動してつりあった。ピストンの移動した距離を表す式はどれか。以下の①～⑥のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-004.png",
+            "Center-1997--Main-ButsuriIB-005.png",
+            "Center-1997--Main-ButsuriIB-006.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q11",
+        "label": "問１",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡガラス板の片面に多数の平行な溝を等間隔に引いた回折格子があり，その格子定数をdとする。まず，図５のように左からガラス面に垂直に波長(?の単色光を入射させる。回折した光が強めあって明線を作るときの角度を(?とする。\n\n\n次に，図６のように回折格子の左右の向きを入れ換え，左からガラス面に垂直に波長(?の単色光を入射させる。左面の回折格子で回折した光はガラスの中を進み，そののち空気中を進む。\n\nＢ気体中をx軸に沿って音波が進んでいる。図７は時刻における場所ごとの気体の変位を表したグラフである。図８は場所における気体の変位の時間変化を表したグラフである。ただし，気体の変位の符号はx軸の正の方向を正としている。\n\n角度(?はどのような式で表されるか。次の①～④のうちから正しいものを一つ選べ。ただし，，，，…とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-007.png",
+            "Center-1997--Main-ButsuriIB-008.png",
+            "Center-1997--Main-ButsuriIB-009.png",
+            "Center-1997--Main-ButsuriIB-010.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q12",
+        "label": "\n問２",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡガラス板の片面に多数の平行な溝を等間隔に引いた回折格子があり，その格子定数をdとする。まず，図５のように左からガラス面に垂直に波長(?の単色光を入射させる。回折した光が強めあって明線を作るときの角度を(?とする。\n\n\n次に，図６のように回折格子の左右の向きを入れ換え，左からガラス面に垂直に波長(?の単色光を入射させる。左面の回折格子で回折した光はガラスの中を進み，そののち空気中を進む。\n\nＢ気体中をx軸に沿って音波が進んでいる。図７は時刻における場所ごとの気体の変位を表したグラフである。図８は場所における気体の変位の時間変化を表したグラフである。ただし，気体の変位の符号はx軸の正の方向を正としている。\n\nガラス中を進む回折光の波長はどのように表されるか。次の①～④のうちから正しいものを一つ選べ。ただし，空気に対するガラスの屈折率をnとする。\n",
+        "choices": {
+            "choice1": "①n?",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-007.png",
+            "Center-1997--Main-ButsuriIB-008.png",
+            "Center-1997--Main-ButsuriIB-009.png",
+            "Center-1997--Main-ButsuriIB-010.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q13",
+        "label": "問３",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡガラス板の片面に多数の平行な溝を等間隔に引いた回折格子があり，その格子定数をdとする。まず，図５のように左からガラス面に垂直に波長(?の単色光を入射させる。回折した光が強めあって明線を作るときの角度を(?とする。\n\n\n次に，図６のように回折格子の左右の向きを入れ換え，左からガラス面に垂直に波長(?の単色光を入射させる。左面の回折格子で回折した光はガラスの中を進み，そののち空気中を進む。\n\nＢ気体中をx軸に沿って音波が進んでいる。図７は時刻における場所ごとの気体の変位を表したグラフである。図８は場所における気体の変位の時間変化を表したグラフである。ただし，気体の変位の符号はx軸の正の方向を正としている。\n\nガラスから空気中に進んだ回折光が明線を作るときの角度はどのような式で表されるか。次の①～⑥のうちから正しいものを一つ選べ。ただし，，，，…とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-007.png",
+            "Center-1997--Main-ButsuriIB-008.png",
+            "Center-1997--Main-ButsuriIB-009.png",
+            "Center-1997--Main-ButsuriIB-010.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q14",
+        "label": "問４",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡガラス板の片面に多数の平行な溝を等間隔に引いた回折格子があり，その格子定数をdとする。まず，図５のように左からガラス面に垂直に波長(?の単色光を入射させる。回折した光が強めあって明線を作るときの角度を(?とする。\n\n\n次に，図６のように回折格子の左右の向きを入れ換え，左からガラス面に垂直に波長(?の単色光を入射させる。左面の回折格子で回折した光はガラスの中を進み，そののち空気中を進む。\n\nＢ気体中をx軸に沿って音波が進んでいる。図７は時刻における場所ごとの気体の変位を表したグラフである。図８は場所における気体の変位の時間変化を表したグラフである。ただし，気体の変位の符号はx軸の正の方向を正としている。\n\nこの音波の速度はほぼいくらか。次の①～⑥のうちから正しいものを一つ選べ。ただし，x軸の正の方向に進む向きを正とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④200",
+            "choice5": "⑤400",
+            "choice6": "⑥800"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_G,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-007.png",
+            "Center-1997--Main-ButsuriIB-008.png",
+            "Center-1997--Main-ButsuriIB-009.png",
+            "Center-1997--Main-ButsuriIB-010.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q15",
+        "label": "問５",
+        "text": "\n\n次の問いＡ(問１～３)，Ｂ(問４・問５)に答えよ。\nＡガラス板の片面に多数の平行な溝を等間隔に引いた回折格子があり，その格子定数をdとする。まず，図５のように左からガラス面に垂直に波長(?の単色光を入射させる。回折した光が強めあって明線を作るときの角度を(?とする。\n\n\n次に，図６のように回折格子の左右の向きを入れ換え，左からガラス面に垂直に波長(?の単色光を入射させる。左面の回折格子で回折した光はガラスの中を進み，そののち空気中を進む。\n\nＢ気体中をx軸に沿って音波が進んでいる。図７は時刻における場所ごとの気体の変位を表したグラフである。図８は場所における気体の変位の時間変化を表したグラフである。ただし，気体の変位の符号はx軸の正の方向を正としている。\n\n図７に示した各点A，B，C，Dのうち，時刻において気体が最も密な点はどこか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①A",
+            "choice2": "②B",
+            "choice3": "③C",
+            "choice4": "④D"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "referenceSymbol",
+        "knowledge_type": "KS,IC_G,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-007.png",
+            "Center-1997--Main-ButsuriIB-008.png",
+            "Center-1997--Main-ButsuriIB-009.png",
+            "Center-1997--Main-ButsuriIB-010.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q16",
+        "label": "問１",
+        "text": "\n\nある電熱器にかける電圧V[Ｖ]とそのときに流れる電流I[Ａ]を測定したところ，図９のようになった。以下の問いＡ(問１・問２)，Ｂ(問３・問４)に答えよ。\nＡこの電熱器を100Ｖの電源に図10のようにつないで，2.0?の水を室温から沸騰させる。\n\n\nＢこれと同じ電熱器を二つ用意し，図11あるいは図12のように，100Ｖの電源につないだ。電熱器一つ当たり2.0(，合計4.0(の水を室温から沸騰させた。図９を参考にして下の問い(問３・問４)に答えよ。ただし，電力が水の加熱に利用できる割合はいずれもＡの場合と同じとする。\n\nこのとき電熱器で消費される電力はほぼ何kＷか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①1",
+            "choice2": "②10",
+            "choice3": "③100",
+            "choice4": "④1000"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P1,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-011.png",
+            "Center-1997--Main-ButsuriIB-012.png",
+            "Center-1997--Main-ButsuriIB-013.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q17",
+        "label": "問２",
+        "text": "\n\nある電熱器にかける電圧V[Ｖ]とそのときに流れる電流I[Ａ]を測定したところ，図９のようになった。以下の問いＡ(問１・問２)，Ｂ(問３・問４)に答えよ。\nＡこの電熱器を100Ｖの電源に図10のようにつないで，2.0?の水を室温から沸騰させる。\n\n\nＢこれと同じ電熱器を二つ用意し，図11あるいは図12のように，100Ｖの電源につないだ。電熱器一つ当たり2.0(，合計4.0(の水を室温から沸騰させた。図９を参考にして下の問い(問３・問４)に答えよ。ただし，電力が水の加熱に利用できる割合はいずれもＡの場合と同じとする。\n\n水が室温から沸騰しはじめるまでに24分かかった。この電源の電力料金は1kＷh(キロワット時)当たり20円である。必要な電力料金は何円になるか。次の①～④のうちから正しいものを一つ選べ。\n",
+        "choices": {
+            "choice1": "①8",
+            "choice2": "②12",
+            "choice3": "③20",
+            "choice4": "④480"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-011.png",
+            "Center-1997--Main-ButsuriIB-012.png",
+            "Center-1997--Main-ButsuriIB-013.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q18",
+        "label": "問３",
+        "text": "\n\nある電熱器にかける電圧V[Ｖ]とそのときに流れる電流I[Ａ]を測定したところ，図９のようになった。以下の問いＡ(問１・問２)，Ｂ(問３・問４)に答えよ。\nＡこの電熱器を100Ｖの電源に図10のようにつないで，2.0?の水を室温から沸騰させる。\n\n\nＢこれと同じ電熱器を二つ用意し，図11あるいは図12のように，100Ｖの電源につないだ。電熱器一つ当たり2.0(，合計4.0(の水を室温から沸騰させた。図９を参考にして下の問い(問３・問４)に答えよ。ただし，電力が水の加熱に利用できる割合はいずれもＡの場合と同じとする。\n\nそれぞれのつなぎ方の場合に，室温の水4.0(が沸騰しはじめるまでにほぼ何分かかったか。次の①～⑧のうちから正しいものを一つずつ選べ。ただし，同じものを繰り返し選んでもよい。\n",
+        "choices": {
+            "choice1": "①12",
+            "choice2": "②24",
+            "choice3": "③32",
+            "choice4": "④48",
+            "choice5": "⑤60",
+            "choice6": "⑥72",
+            "choice7": "⑦80",
+            "choice8": "⑧96"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-011.png",
+            "Center-1997--Main-ButsuriIB-012.png",
+            "Center-1997--Main-ButsuriIB-013.png"
+        ],
+        "correct_answer": "7",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "1997",
+        "question_id": "Q19",
+        "label": "問４",
+        "text": "\n\nある電熱器にかける電圧V[Ｖ]とそのときに流れる電流I[Ａ]を測定したところ，図９のようになった。以下の問いＡ(問１・問２)，Ｂ(問３・問４)に答えよ。\nＡこの電熱器を100Ｖの電源に図10のようにつないで，2.0?の水を室温から沸騰させる。\n\n\nＢこれと同じ電熱器を二つ用意し，図11あるいは図12のように，100Ｖの電源につないだ。電熱器一つ当たり2.0(，合計4.0(の水を室温から沸騰させた。図９を参考にして下の問い(問３・問４)に答えよ。ただし，電力が水の加熱に利用できる割合はいずれもＡの場合と同じとする。\n\n\nそれぞれのつなぎ方の場合に，合計4.0(の水を沸騰させるのに必要な電力料金は，問２の場合の電力料金の何倍か。次の①～⑧のうちから正しいものを一つずつ選べ。ただし，同じものを繰り返し選んでもよい",
+        "choices": {
+            "choice1": "①0.4",
+            "choice2": "②0.8",
+            "choice3": "③1.0",
+            "choice4": "④1.2",
+            "choice5": "⑤2.0",
+            "choice6": "⑥2.5",
+            "choice7": "⑦3.0",
+            "choice8": "⑧4.0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-1997--Main-ButsuriIB-011.png",
+            "Center-1997--Main-ButsuriIB-012.png",
+            "Center-1997--Main-ButsuriIB-013.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    }
+]

@@ -30,7 +30,7 @@ To utilize this dataset:
 If you use this dataset in your research, please cite the original work:
 
 ```
-Anonymous et al. "Local LLM Evaluation with Students' Performance Using the Japanese National University Entrance Examination Dataset." (2024)
+Anonymous et al. "Local LLM Evaluation with Students' Performance Using the Japanese National University Entrance Examination Dataset." (2025)
 ```
 
 ## Acknowledgments

@@ -1,0 +1,546 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q1",
+        "label": "問２",
+        "text": "水面波が，点から広がり壁に入射して反射する。ある時点における入射波の波面は図１のようである。この時点における反射波の波面として最も適当なものを，以下の①～④のうちから一つ選べ。\n\n\n質量，太さおよび密度が一様で長さがの角棒が図２のように水平に置かれている。支点は角棒の左端から，支点は支点からの距離にある。この角棒の右端に質量のおもりを，質量が無視できる糸を用いてつり下げたところ，角棒は水平のままであった。このとき，支点，で支点が角棒におよぼす力は鉛直上向きである。その大きさをそれぞれ，とする。角棒が支点のまわりに回転しないことを表す式はどうなるか。正しいものを，以下の①～④のうちから一つ選べ。ただし，重力加速度の大きさをとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-001.jpg",
+            "Center-2005--Main-ButsuriIB-002.jpg",
+            "Center-2005--Main-ButsuriIB-003.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q2",
+        "label": "問３",
+        "text": "水面波が，点から広がり壁に入射して反射する。ある時点における入射波の波面は図１のようである。この時点における反射波の波面として最も適当なものを，以下の①～④のうちから一つ選べ。\n\n\n物理量の次元を考える。力学的な量の次元は，質量，長さ，時間の組合せで表現できる。たとえば，速さの次元は，運動量の次元はである。エネルギーの次元はどうなるか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-001.jpg",
+            "Center-2005--Main-ButsuriIB-002.jpg"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q3",
+        "label": "問５",
+        "text": "図３のように，間に半導体ダイオードを置き，に対するの電位をとしたとき，からに流れる電流との関係は図４のように与えられる。間に図５のように時間変化する電圧[Ｖ]をかけたとき，ダイオードに流れる電流[mＡ]と時間[s]との関係を表すグラフはどれか。最も適当なものを，以下の①～④のうちから一つ選べ。\n\n\nウランの原子核は崩壊と崩壊を何度か繰り返し，安定な鉛Pbの原子核になる。この原子核崩壊によって生じる鉛の同位体はどれか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-004.jpg",
+            "Center-2005--Main-ButsuriIB-005.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q4",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１のように，滑車が天井に固定されている。水平な床面上に質量の小物体を置き，に伸び縮みしない糸をつけて滑車にかけ，糸の他端に砂を入れた容器をつるした。はじめ，容器と砂の質量の和がのとき，糸と床のなす角がで小物体と容器は静止していた。その後，容器に砂を加えてその質量を大きくしていくと，小物体は床を右向きにすべり始めた。小物体と床の間の静止摩擦係数を，重力加速度の大きさをとする。ただし，糸と滑車の質量は無視でき，滑車はなめらかにまわるものとする。\n\n\nＢ図２のように，水平面，が，高さの斜面台をはさんで，なめらかにつながっている。平面と斜面台の交線，は互いに平行で，交線に垂直な斜面台の断面の形は場所によらず同じである。交線に垂直に交わる直線と角度をなす方向から，質量の小物体が速さで等速直線運動をしてきて，斜面を通過し，平面に到達した。平面上では，小物体は交線に垂直に交わる直線と角度をなす方向に速さで等速直線運動をした。小物体と面との間に摩擦はなく，また，小物体は面から離れることなく運動する。ただし，重力加速度の大きさをとする。\n\nはじめ，小物体と容器が静止しているとき，が床から受ける摩擦力の大きさはいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-006.jpg",
+            "Center-2005--Main-ButsuriIB-007.jpg",
+            "Center-2005--Main-ButsuriIB-008.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q5",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１のように，滑車が天井に固定されている。水平な床面上に質量の小物体を置き，に伸び縮みしない糸をつけて滑車にかけ，糸の他端に砂を入れた容器をつるした。はじめ，容器と砂の質量の和がのとき，糸と床のなす角がで小物体と容器は静止していた。その後，容器に砂を加えてその質量を大きくしていくと，小物体は床を右向きにすべり始めた。小物体と床の間の静止摩擦係数を，重力加速度の大きさをとする。ただし，糸と滑車の質量は無視でき，滑車はなめらかにまわるものとする。\n\n\nＢ図２のように，水平面，が，高さの斜面台をはさんで，なめらかにつながっている。平面と斜面台の交線，は互いに平行で，交線に垂直な斜面台の断面の形は場所によらず同じである。交線に垂直に交わる直線と角度をなす方向から，質量の小物体が速さで等速直線運動をしてきて，斜面を通過し，平面に到達した。平面上では，小物体は交線に垂直に交わる直線と角度をなす方向に速さで等速直線運動をした。小物体と面との間に摩擦はなく，また，小物体は面から離れることなく運動する。ただし，重力加速度の大きさをとする。\n\n容器に砂を加えて小物体が運動し始めたときの容器と砂の質量の和はいくらか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-006.jpg",
+            "Center-2005--Main-ButsuriIB-007.jpg",
+            "Center-2005--Main-ButsuriIB-008.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q6",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１のように，滑車が天井に固定されている。水平な床面上に質量の小物体を置き，に伸び縮みしない糸をつけて滑車にかけ，糸の他端に砂を入れた容器をつるした。はじめ，容器と砂の質量の和がのとき，糸と床のなす角がで小物体と容器は静止していた。その後，容器に砂を加えてその質量を大きくしていくと，小物体は床を右向きにすべり始めた。小物体と床の間の静止摩擦係数を，重力加速度の大きさをとする。ただし，糸と滑車の質量は無視でき，滑車はなめらかにまわるものとする。\n\n\nＢ図２のように，水平面，が，高さの斜面台をはさんで，なめらかにつながっている。平面と斜面台の交線，は互いに平行で，交線に垂直な斜面台の断面の形は場所によらず同じである。交線に垂直に交わる直線と角度をなす方向から，質量の小物体が速さで等速直線運動をしてきて，斜面を通過し，平面に到達した。平面上では，小物体は交線に垂直に交わる直線と角度をなす方向に速さで等速直線運動をした。小物体と面との間に摩擦はなく，また，小物体は面から離れることなく運動する。ただし，重力加速度の大きさをとする。\n\n平面上での小物体の速さはいくらか。正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-006.jpg",
+            "Center-2005--Main-ButsuriIB-007.jpg",
+            "Center-2005--Main-ButsuriIB-008.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q7",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１のように，滑車が天井に固定されている。水平な床面上に質量の小物体を置き，に伸び縮みしない糸をつけて滑車にかけ，糸の他端に砂を入れた容器をつるした。はじめ，容器と砂の質量の和がのとき，糸と床のなす角がで小物体と容器は静止していた。その後，容器に砂を加えてその質量を大きくしていくと，小物体は床を右向きにすべり始めた。小物体と床の間の静止摩擦係数を，重力加速度の大きさをとする。ただし，糸と滑車の質量は無視でき，滑車はなめらかにまわるものとする。\n\n\nＢ図２のように，水平面，が，高さの斜面台をはさんで，なめらかにつながっている。平面と斜面台の交線，は互いに平行で，交線に垂直な斜面台の断面の形は場所によらず同じである。交線に垂直に交わる直線と角度をなす方向から，質量の小物体が速さで等速直線運動をしてきて，斜面を通過し，平面に到達した。平面上では，小物体は交線に垂直に交わる直線と角度をなす方向に速さで等速直線運動をした。小物体と面との間に摩擦はなく，また，小物体は面から離れることなく運動する。ただし，重力加速度の大きさをとする。\n\n速さ，および角度，の間の関係として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①，",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-006.jpg",
+            "Center-2005--Main-ButsuriIB-007.jpg",
+            "Center-2005--Main-ButsuriIB-008.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q8",
+        "label": "問１",
+        "text": "\n\n次の文章を読み，以下の問い(問１～３)に答えよ。\n図１のように，栓が付いた細い管でつながれた二つの円筒容器，がある。左の容器の体積はで，右の容器には，なめらかに動く断面積のピストンが取り付けられている。はじめ，栓は閉じられており，容器には温度で外部と同じ圧力の気体が入っている。また，容器の内部は真空であり，体積がとなるようにピストンが固定されている。ただし，円筒容器，栓，ピストンは熱を通さず，細い管の体積は無視してよいものとする。\n\nピストンの位置を保ったまま栓を開くと，気体が容器，全体に一様に広がり，温度は変化しなかった。この過程に関する記述として正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①気体は外部に対して仕事をせず，気体の圧力は減少した。",
+            "choice2": "②気体は外部に対して仕事をせず，気体の圧力は変化しない。",
+            "choice3": "③気体は外部に対して仕事をし，気体の圧力は減少した。",
+            "choice4": "④気体は外部に対して仕事をし，気体の圧力は変化しない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-009.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q9",
+        "label": "問２",
+        "text": "\n\n次の文章を読み，以下の問い(問１～３)に答えよ。\n図１のように，栓が付いた細い管でつながれた二つの円筒容器，がある。左の容器の体積はで，右の容器には，なめらかに動く断面積のピストンが取り付けられている。はじめ，栓は閉じられており，容器には温度で外部と同じ圧力の気体が入っている。また，容器の内部は真空であり，体積がとなるようにピストンが固定されている。ただし，円筒容器，栓，ピストンは熱を通さず，細い管の体積は無視してよいものとする。\n\n問１で気体が一様に広がったのちも，ピストンの位置を一定に保つために，人がピストンに加えなければならない力はいくらか。正しいものを，次の①～⑧のうちから一つ選べ。ただし，力は右向きを正とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-009.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q10",
+        "label": "問３",
+        "text": "\n\n次の文章を読み，以下の問い(問１～３)に答えよ。\n図１のように，栓が付いた細い管でつながれた二つの円筒容器，がある。左の容器の体積はで，右の容器には，なめらかに動く断面積のピストンが取り付けられている。はじめ，栓は閉じられており，容器には温度で外部と同じ圧力の気体が入っている。また，容器の内部は真空であり，体積がとなるようにピストンが固定されている。ただし，円筒容器，栓，ピストンは熱を通さず，細い管の体積は無視してよいものとする。\n\nつづいて，ピストンを静かに動かして容器内の気体を容器にすべて戻した。このとき，気体の温度，圧力は，に比べてどのようになるか。正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①，",
+            "choice2": "②，",
+            "choice3": "③，",
+            "choice4": "④，",
+            "choice5": "⑤，"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-009.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q11",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\nスピーカーとを結ぶ直線上で音波を観測したところ，音の大きさが小さくなる場所が等間隔で存在した。このことを説明する語として最も適当なものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①回折波",
+            "choice2": "②屈折波",
+            "choice3": "③進行波",
+            "choice4": "④反射波",
+            "choice5": "⑤定常波"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q12",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\n音波の振動数がＨzであったとき，問１の間隔は何mか。最も適当な数値を，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①0.28",
+            "choice2": "②0.57",
+            "choice3": "③1.14",
+            "choice4": "④2.28"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q13",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\n観測者がからに向かって一定の速さで歩くと，音の大きさが繰り返し変化して聞こえる。音が大きく聞こえる回数は1秒あたりいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q14",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\n薄膜中での光の波長を，光の速さをとすると，それらを表す式は\n，\nとなる。，の組合せとして正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q15",
+        "label": "問５",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\n図２での距離を，の距離をとするとき，光線1と光線2とが薄膜から反射された後に弱め合う条件として正しいものを，次の①～⑥のうちから一つ選べ。ただし，は正の整数とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q16",
+        "label": "問６",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，向かい合わせに置かれた二つのスピーカーとが発振器に接続され同一の振動数の音波を発している。ただし，風はなく，空気中の音速はm/sとする。\n\n\nＢ図２のように，波長の平行光線を透明で一様な厚さの薄膜に斜めに入射させ，右側で反射光を観察する。光線1は薄膜の表面の点で反射する。光線2は点で薄膜内に入り，薄膜の裏面の点で反射して点で再び空気中に出てくる。ただし，空気の絶対屈折率を1，薄膜の絶対屈折率を，真空中での光の速さをとする。また，図の点線は光の波面である。\n\n薄膜からの反射光は，入射角によって強め合ったり弱め合ったりする。この干渉現象と最も深く関係していることがらを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①白色光を当てると，コンパクトディスクが回折格子の役割をし，色づいて見える。",
+            "choice2": "②夕暮れ時の太陽は赤く見え，晴れた日の空は青く見える。",
+            "choice3": "③プリズムに光を当てたら，赤色よりも青色の光の方がより曲がった。",
+            "choice4": "④偏光サングラスをかけると，水面からの反射光が遮断される。",
+            "choice5": "⑤気象条件によっては，対岸の風景が浮かび上がって見える蜃気楼が起こる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,GK,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-010.jpg",
+            "Center-2005--Main-ButsuriIB-011.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q17",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように起電力，内部抵抗の個の電池と個のスイッチ，抵抗を接続した回路がある。\n\n\nＢ図３のように，2枚の広い極板，を向かい合わせた平行板コンデンサーがある。中央には電荷をもたない金属板が極板，に平行に置かれている。極板，，金属板の面積はともに，金属板の厚さは，極板，の間隔はである。極板，に垂直に軸をとり，極板の位置を座標の原点とする。ここで，極板を接地し，極板にの正電荷を与えた。\n\n二つのスイッチ，のみを閉じたとき，抵抗に流れる電流はいくらか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-012.jpg",
+            "Center-2005--Main-ButsuriIB-013.jpg",
+            "Center-2005--Main-ButsuriIB-014.jpg",
+            "Center-2005--Main-ButsuriIB-015.jpg",
+            "Center-2005--Main-ButsuriIB-016.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q18",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように起電力，内部抵抗の個の電池と個のスイッチ，抵抗を接続した回路がある。\n\n\nＢ図３のように，2枚の広い極板，を向かい合わせた平行板コンデンサーがある。中央には電荷をもたない金属板が極板，に平行に置かれている。極板，，金属板の面積はともに，金属板の厚さは，極板，の間隔はである。極板，に垂直に軸をとり，極板の位置を座標の原点とする。ここで，極板を接地し，極板にの正電荷を与えた。\n\nスイッチのすべてを閉じたとき，電池の内部抵抗に発生する単位時間あたりのジュール熱はいくらか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-012.jpg",
+            "Center-2005--Main-ButsuriIB-013.jpg",
+            "Center-2005--Main-ButsuriIB-014.jpg",
+            "Center-2005--Main-ButsuriIB-015.jpg",
+            "Center-2005--Main-ButsuriIB-016.jpg"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q19",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように起電力，内部抵抗の個の電池と個のスイッチ，抵抗を接続した回路がある。\n\n\nＢ図３のように，2枚の広い極板，を向かい合わせた平行板コンデンサーがある。中央には電荷をもたない金属板が極板，に平行に置かれている。極板，，金属板の面積はともに，金属板の厚さは，極板，の間隔はである。極板，に垂直に軸をとり，極板の位置を座標の原点とする。ここで，極板を接地し，極板にの正電荷を与えた。\n\nすべてのスイッチを閉じた状態で抵抗に流れる電流をとする。個の電池を図２のように起電力がで内部抵抗がの1個の電池に置き換え，抵抗に同じ大きさの電流が流れるようにしたい。内部抵抗をどのようにとればよいか。正しいものを，以下の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-012.jpg",
+            "Center-2005--Main-ButsuriIB-013.jpg",
+            "Center-2005--Main-ButsuriIB-014.jpg",
+            "Center-2005--Main-ButsuriIB-015.jpg",
+            "Center-2005--Main-ButsuriIB-016.jpg"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q20",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように起電力，内部抵抗の個の電池と個のスイッチ，抵抗を接続した回路がある。\n\n\nＢ図３のように，2枚の広い極板，を向かい合わせた平行板コンデンサーがある。中央には電荷をもたない金属板が極板，に平行に置かれている。極板，，金属板の面積はともに，金属板の厚さは，極板，の間隔はである。極板，に垂直に軸をとり，極板の位置を座標の原点とする。ここで，極板を接地し，極板にの正電荷を与えた。\n\n図３のように，極板，の中心を結ぶ直線上に点，，をとる。それぞれの座標は，，である。これら3点での電界(電場)の成分，，はそれぞれいくらか。組合せとして正しいものを，次の①～⑤のうちから一つ選べ。ただし，電界の成分の符号は図３の右向きが正であり，，を真空の誘電率とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-012.jpg",
+            "Center-2005--Main-ButsuriIB-013.jpg",
+            "Center-2005--Main-ButsuriIB-014.jpg",
+            "Center-2005--Main-ButsuriIB-015.jpg",
+            "Center-2005--Main-ButsuriIB-016.jpg"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2005",
+        "question_id": "Q21",
+        "label": "問５",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように起電力，内部抵抗の個の電池と個のスイッチ，抵抗を接続した回路がある。\n\n\nＢ図３のように，2枚の広い極板，を向かい合わせた平行板コンデンサーがある。中央には電荷をもたない金属板が極板，に平行に置かれている。極板，，金属板の面積はともに，金属板の厚さは，極板，の間隔はである。極板，に垂直に軸をとり，極板の位置を座標の原点とする。ここで，極板を接地し，極板にの正電荷を与えた。\n\n極板の電位は問４のを用いて表すとどのようになるか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2005--Main-ButsuriIB-012.jpg",
+            "Center-2005--Main-ButsuriIB-013.jpg",
+            "Center-2005--Main-ButsuriIB-014.jpg",
+            "Center-2005--Main-ButsuriIB-015.jpg",
+            "Center-2005--Main-ButsuriIB-016.jpg"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    }
+]

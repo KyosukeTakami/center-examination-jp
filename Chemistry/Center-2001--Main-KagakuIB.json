@@ -1,0 +1,773 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q1",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【\nａ炭素原子のL殻に含まれる電子の数】",
+        "choices": {
+            "choice1": "①２",
+            "choice2": "②３",
+            "choice3": "③４",
+            "choice4": "④５",
+            "choice5": "⑤６"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q2",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ｂ混合物であるもの】",
+        "choices": {
+            "choice1": "①塩化ナトリウム",
+            "choice2": "②塩 酸",
+            "choice3": "③アルゴン",
+            "choice4": "④プロパン",
+            "choice5": "⑤臭 素"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q3",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ｃ１gの気体中に含まれる分子の数が最も多いもの】",
+        "choices": {
+            "choice1": "①N2",
+            "choice2": "②O2",
+            "choice3": "③F2",
+            "choice4": "④NO",
+            "choice5": "⑤CO2"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q4",
+        "label": "",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n\n【ｄ原子番号と必ず同じ数値になるもの】",
+        "choices": {
+            "choice1": "①原子量",
+            "choice2": "②質量数",
+            "choice3": "③陽イオンに含まれる電子の数",
+            "choice4": "④原子核に含まれる中性子の数",
+            "choice5": "⑤中性の原子に含まれる電子の数"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C1",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q5",
+        "label": "問２",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n極性に関する次の記述ａ～ｃの下線部について，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【\nａC−H，N−H，O−HおよびF−H結合のなかで，【極性の一番大きな結合はO−H結合である】】。【\nｂ二酸化炭素分子が無極性分子であるのは，【C＝O結合に極性がないからである】】。【\nｃアンモニアの沸点がメタンの沸点よりも100℃以上高いのは，【アンモニア分子間に水素結合があるからである】】。",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "7",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q6",
+        "label": "問３",
+        "text": "次のａ～ｄに当てはまるものを，それぞれの解答群①～⑤のうちから一つずつ選べ。\n\n\n質量パーセント濃度が1.7％の過酸化水素水10.0gに酸化マンガン(Ⅳ)を少量加え，このときに起こる反応を完結させた。この反応で発生した気体の体積は，標準状態において何mlか。最も適当な数値を，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①1.4",
+            "choice2": "②2.8",
+            "choice3": "③5.6",
+            "choice4": "④14",
+            "choice5": "⑤28",
+            "choice6": "⑥56"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "no",
+        "image_files": [],
+        "correct_answer": "6",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q7",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次の物質ア～エを，それぞれ容積１lの容器に入れて密閉し，０～100℃の範囲で温度を変化させた。そのときの各容器内の圧力変化を図１に示す。直線または曲線ａ～ｄと物質との組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n【ア0.02molの酸素】【イ0.04molの窒素\n】【ウ0.01molの水】【エ0.03molのジエチルエーテル】",
+        "choices": {
+            "choice1": "①アイウエ",
+            "choice2": "②アウエイ",
+            "choice3": "③アエイウ",
+            "choice4": "④イウアエ",
+            "choice5": "⑤イエウア",
+            "choice6": "⑥イエアウ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-symbol)*4",
+        "knowledge_type": "KS,IC_G,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-001.png",
+            "Center-2001--Main-KagakuIB-002.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q8",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次の記述ａ～ｃについて，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【\nａ圧力が一定のとき，氷が融解しはじめてからすべて水になるまで温度は一定に保たれる。】【\nｂ水の飽和蒸気圧は，空気が共存しても変化しない。\n】【ｃ水の沸点は，外圧が変化しても一定である。\n】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-001.png",
+            "Center-2001--Main-KagakuIB-002.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q9",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n水素0.100molを完全燃焼させ，生成したすべての水を過剰の酸化バリウムBaOと反応させた。このとき，水素の燃焼で生じた熱量と水が酸化バリウムと反応したときに生じた熱量の和は39.1kＪ(発熱)であった。また，バリウム0.100molを完全燃焼させ，酸化バリウムを生成させたところ，55.4kＪの発熱が観測された。以上の結果から，水酸化バリウムBa(OH)2の生成熱を計算するといくらになるか。最も適当な数値を，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①−1336",
+            "choice2": "②−945",
+            "choice3": "③−717",
+            "choice4": "④717",
+            "choice5": "⑤945",
+            "choice6": "⑥1336"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-001.png",
+            "Center-2001--Main-KagakuIB-002.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q10",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\nダイヤモンドと黒鉛(グラファイト)に関する次の記述ａ～ｃについて，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【ａダイヤモンドと黒鉛は，いずれも電気をよく導く。】【\nｂダイヤモンドは，イオン結合でできているので，非常に硬い。\n】【ｃ黒鉛は，平面状の巨大な分子が積み重なった構造をしており，薄片にはがれやすい。\n】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-symbol)*3",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-001.png",
+            "Center-2001--Main-KagakuIB-002.png"
+        ],
+        "correct_answer": "7",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q11",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n次の文章中の空欄ア・イに入れる語句の組合せとして最も適当なものを，以下の①～④のうちから一つ選べ。\n水分子は通すがスクロース(ショ糖)分子は通さない半透膜を中央に固定したU字管がある。図２のように，Ａ側に水を，Ｂ側にスクロース水溶液を，両方の液面の高さが同じになるように入れた。十分な時間をおくと液面の高さにhの差が生じ，アの液面が高くなった。次にＡ側とＢ側の両方に，それぞれ体積Vの水を加え，放置したところ，液面の差はhより小さくなった。ここでＡ側から体積２Vの水をとり除き，十分な時間放置したところ，液面の差はイ。ただし，Ａ側から体積２Vの水をとり除いたときも，Ａ側の液面はU字管の垂直部分にあるものとする。また，水の蒸発はないものとする",
+        "choices": {
+            "choice1": "①Ａ側 なくなった",
+            "choice2": "②Ａ側 hにもどった",
+            "choice3": "③Ｂ側 なくなった",
+            "choice4": "④Ｂ側hにもどった"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-sentence)*2",
+        "knowledge_type": "KS,IC_O,DM_C5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-001.png",
+            "Center-2001--Main-KagakuIB-002.png"
+        ],
+        "correct_answer": "4",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q12",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n酸化還元反応に関する次の記述ａ～ｃの下線部について，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【ａ二クロム酸カリウムの硫酸酸性水溶液に過酸化水素水を加えると，二クロム酸イオンが【酸化されて】クロム(Ⅲ)イオンが生成し，溶液は橙赤色から緑色に変わる。】【\nｂ亜鉛板を硫酸銅(Ⅱ)水溶液に入れると，銅(Ⅱ)イオンが還元されて銅が析出し，溶液の青色が薄くなる。\n】【ｃ塩素Cl2を臭化カリウム水溶液に通すと，臭化物イオンが還元されて臭素Br2が遊離し，溶液は赤褐色になる。\n】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "6",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q13",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n酸化物Al2O3，CaO，NO2，Na2O，SO2を，酸性酸化物，両性酸化物，塩基性酸化物に分類した。その分類として正しいものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①Na2OCaONO2，SO2，Al2O3",
+            "choice2": "②Na2O，CaOAl2O3NO2，SO2",
+            "choice3": "③Na2OCaO，Al2O3NO2，SO2",
+            "choice4": "④SO2NO2，Al2O3Na2O，CaO",
+            "choice5": "⑤NO2，SO2Al2O3Na2O，CaO",
+            "choice6": "⑥NO2，SO2CaO，Al2O3Na2O"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q14",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n濃度が0.10mol/lの酸ａ・ｂを10mlずつ取り，それぞれを【0.10mol/l】水酸化ナトリウム水溶液で滴定し，滴下量と溶液のpＨとの関係を調べた。図１に示した滴定曲線を与える酸の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①塩 酸 酢 酸",
+            "choice2": "②酢 酸 塩 酸",
+            "choice3": "③硫 酸 塩 酸",
+            "choice4": "④塩 酸 硫 酸",
+            "choice5": "⑤硫 酸 酢 酸",
+            "choice6": "⑥酢 酸 硫 酸"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-term_other)*2",
+        "knowledge_type": "KS,IC_G,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q15",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の化合物の組合せａ～ｃにおいて，各化合物の0.1mol/l水溶液を混合したときの変化を，沈殿が生成するものと気体が発生するものとに分類した。その分類として最も適当なものを，以下の①～⑥のうちから一つ選べ。\n【ａK2CrO4とAgNO3】【ｂNa2CO3とH2SO4】【ｃNa2SO4とPb(NO3)2\n】",
+        "choices": {
+            "choice1": "①ａｂ，ｃ",
+            "choice2": "②ｂａ，ｃ",
+            "choice3": "③ｃａ，ｂ",
+            "choice4": "④ａ，ｂｃ",
+            "choice5": "⑤ａ，ｃｂ",
+            "choice6": "⑥ｂ，ｃａ"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "comb_other_1",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q16",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n0.050mol/lFeSO4水溶液20mlと過不足なく反応する0.020mol/lのKMnO4硫酸酸性水溶液の体積は何mlか。最も適当な数値を，以下の①～⑧のうちから一つ選べ。ただし，MnO4−とFe2＋はそれぞれ酸化剤および還元剤として次のように働く。\nMnO4− ＋ 8H＋ ＋ 5e− Mn2＋ ＋ 4H2O\nFe2＋ Fe3＋ ＋ e−",
+        "choices": {
+            "choice1": "①2.0",
+            "choice2": "②4.0",
+            "choice3": "③10",
+            "choice4": "④20",
+            "choice5": "⑤40",
+            "choice6": "⑥50",
+            "choice7": "⑦100",
+            "choice8": "⑧250"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q17",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\nz価の金属イオンMz＋を含む溶液にQ [Ｃ]の電気量を通すと，w[g]の金属Ｍが析出した。この金属Ｍの原子量を与える式として正しいものを，次の①～⑥のうちから一つ選べ。ただし，ファラデー定数をF[Ｃ/mol]とする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-003.png"
+        ],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q18",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n物質の分離に関する記述として誤りを含むものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①大豆(ダイズ)中の油脂は，ヘキサンを用いて抽出することができる。",
+            "choice2": "②窒素と酸素は，沸点の違いにより分離することができる。",
+            "choice3": "③油性フェルトペン(サインペンなど)の色素成分は，シリカゲルに対する吸着力の違いにより相互に分けることができる。",
+            "choice4": "④水溶液中の水酸化鉄(Ⅲ)のコロイド粒子は，ろ過してろ紙上に集めることができる。",
+            "choice5": "⑤ヨウ素は，塩化ナトリウムとの混合物から昇華によって分離することができる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q19",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n単体に関する次の記述ａ～ｃに当てはまる第３周期元素の組合せとして最も適当なものを，以下の①～⑧のうちから一つ選べ。\n【\nａ結晶はダイヤモンドと同じ構造で，高純度のものは半導体の材料である。】【\nｂ燃焼させると有毒な気体となるが，この気体をさらに酸化して得られる物質は重要な工業原料である。】【\nｃ冷水とはほとんど反応しないが，熱水とは徐々に反応して水素を発生する。\n】",
+        "choices": {
+            "choice1": "①Si S Mg",
+            "choice2": "②Si S Na",
+            "choice3": "③Si P Mg",
+            "choice4": "④Si P Na",
+            "choice5": "⑤Al S Mg",
+            "choice6": "⑥Al S Na",
+            "choice7": "⑦Al P Mg",
+            "choice8": "⑧Al P Na"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "1",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q20",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n濃硝酸に浸したとき不動態を形成して溶けにくくなる金属を，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①金",
+            "choice2": "②銀",
+            "choice3": "③銅",
+            "choice4": "④亜 鉛",
+            "choice5": "⑤アルミニウム"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "term_other",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "5",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q21",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図１のような装置を用いたアンモニアの発生実験に関する記述として誤りを含むものを，以下の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①塩化アンモニウムと水酸化カルシウムのかわりに，硫酸アンモニウムと水酸化ナトリウムを用いても，アンモニアを発生させることができる。",
+            "choice2": "②試験管の口をやや下向きにしておくのは，同時に生成する水が加熱部に戻らないようにするためである。",
+            "choice3": "③ソーダ石灰のかわりに，洗気びんに入れた濃硫酸を乾燥剤として用いてもよい。",
+            "choice4": "④アンモニアは，空気より軽く水溶性なので，上方置換で捕集する。",
+            "choice5": "⑤発生したアンモニアは，水で湿らせたリトマス紙で検出できる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_P,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "3",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q22",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\nAg＋，Al3＋，Cu2＋を含む硝酸酸性水溶液から，図２の操作により各イオンを分離した。この実験に関する記述として正しいものを，以下の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①ろ液イ・エはともに無色である。",
+            "choice2": "②沈殿アは過剰のアンモニア水に溶ける。",
+            "choice3": "③操作ａで希塩酸のかわりに硫化水素水を加えると，Ag＋だけが硫化物の沈殿として分離できる。",
+            "choice4": "④操作ｂでアンモニア水のかわりに水酸化ナトリウム水溶液を過剰に加えても，沈殿ウと同じものが分離できる。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "2",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q23",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n酸化物の性質に関する次の記述ａ～ｃについて，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【ａCaOは，水と反応するとき，熱を吸収する。\n】【ｂSiO2の結晶は，分子結晶で，融点が低い。\n】【ｃP4O10は，水に溶かして煮沸すると，リン酸となる。\n】",
+        "choices": {
+            "choice1": "①正 正 正",
+            "choice2": "②正 正 誤",
+            "choice3": "③正 誤 正",
+            "choice4": "④正 誤 誤",
+            "choice5": "⑤誤 正 正",
+            "choice6": "⑥誤 正 誤",
+            "choice7": "⑦誤 誤 正",
+            "choice8": "⑧誤 誤 誤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*3",
+        "knowledge_type": "KS,DM_C3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-004.png",
+            "Center-2001--Main-KagakuIB-005.png"
+        ],
+        "correct_answer": "7",
+        "score": "3"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q24",
+        "label": "問１",
+        "text": "次の問い(問１～６)に答えよ。\n\n\nアセチレンに関する記述として正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①分子は正四面体構造をしている。",
+            "choice2": "②常温・常圧では，褐色・刺激臭の気体である。",
+            "choice3": "③炭酸カルシウムに水を作用させてつくられる。",
+            "choice4": "④水を付加させると，ホルムアルデヒドが生成する。",
+            "choice5": "⑤水素を付加させると，エタンを経てエチレンが生成する。",
+            "choice6": "⑥酢酸を付加させると，酢酸ビニルが生成する。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q25",
+        "label": "問２",
+        "text": "次の問い(問１～６)に答えよ。\n\n\n互いに鏡像の関係にある一対の光学異性体に関する次の記述ａ～ｄについて，正誤の組合せとして正しいものを，以下の①～⑧のうちから一つ選べ。\n【ａ偏光(平面偏光)に対する性質が異なる。\n】【ｂ融点・沸点が異なる。】【\nｃ立体構造が異なる。\n】【ｄ分子式が異なる】。",
+        "choices": {
+            "choice1": "①正 正 正 正",
+            "choice2": "②正 正 誤 正",
+            "choice3": "③正 誤 正 誤",
+            "choice4": "④正 誤 誤 誤",
+            "choice5": "⑤誤 正 正 誤",
+            "choice6": "⑥誤 正 誤 誤",
+            "choice7": "⑦誤 誤 正 正",
+            "choice8": "⑧誤 誤 誤 正"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(symbol-TF)*4",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q26",
+        "label": "問３",
+        "text": "次の問い(問１～６)に答えよ。\n\n\nアルコールに関する記述として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①メタノールは，一酸化炭素と水素からつくられる。",
+            "choice2": "②エタノールは，ナトリウムと反応してエタンを発生する。",
+            "choice3": "③エチレングリコールは，３価アルコールである。",
+            "choice4": "④2-プロパノールは，第３級アルコールである。",
+            "choice5": "⑤2-メチル-2-ブタノールは，2-ブタノールより酸化されやすい。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q27",
+        "label": "問４",
+        "text": "次の問い(問１～６)に答えよ。\n\n\n次の記述ａ・ｂで得られる生成物を化合物ア～クから選び，その組合せとして最も適当なものを，以下の①～⑧のうちから一つ選べ。\n【ａm-クレゾールと無水酢酸の混合物を，振り混ぜながら温めて反応させる。\n】【ｂナトリウムフェノキシドと二酸化炭素を高温・高圧下で反応させて得られた化合物に，希硫酸を作用させる。\n】アイウ\nエオカ\nキク",
+        "choices": {
+            "choice1": "①ア・オ",
+            "choice2": "②ア・カ",
+            "choice3": "③イ・オ",
+            "choice4": "④イ・ク",
+            "choice5": "⑤ウ・カ",
+            "choice6": "⑥ウ・キ",
+            "choice7": "⑦エ・キ",
+            "choice8": "⑧エ・ク"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol",
+        "knowledge_type": "KS,IC_O,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q28",
+        "label": "問５",
+        "text": "次の問い(問１～６)に答えよ。\n\n\n実験観察の記述として誤っているものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①アセトアルデヒドに，ヨウ素ヨウ化カリウム水溶液と水酸化ナトリウム水溶液を加えて温めると，沈殿が生じた。",
+            "choice2": "②アニリンにさらし粉水溶液を加えると，呈色した。",
+            "choice3": "③フェノールの水溶液に臭素水を加えると，沈殿が生じた。",
+            "choice4": "④酢酸にフェーリング液を加えて加熱すると，沈殿が生じた。",
+            "choice5": "⑤2-ナフトールに塩化鉄(Ⅲ)水溶液を加えると，呈色した。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "KagakuIB(main exam)",
+        "year": "2001",
+        "question_id": "Q29",
+        "label": "問６",
+        "text": "次の問い(問１～６)に答えよ。\n\n\nある量の鎖式不飽和脂肪酸のメチルエステルＡを完全にけん化するには，5.00mol/lの水酸化ナトリウム水溶液20.0mlが必要であった。また，同量のＡを飽和脂肪酸メチルエステルに変えるには，水素6.72l(標準状態)を必要とした。Ａの化学式として最も適当なものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①C15H29COOCH3",
+            "choice2": "②C15H31COOCH3",
+            "choice3": "③C17H29COOCH3",
+            "choice4": "④C17H31COOCH3",
+            "choice5": "⑤C19H31COOCH3",
+            "choice6": "⑥C19H39COOCH3"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_C4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-KagakuIB-006.png",
+            "Center-2001--Main-KagakuIB-007.png",
+            "Center-2001--Main-KagakuIB-008.png",
+            "Center-2001--Main-KagakuIB-009.png",
+            "Center-2001--Main-KagakuIB-010.png",
+            "Center-2001--Main-KagakuIB-011.png",
+            "Center-2001--Main-KagakuIB-012.png",
+            "Center-2001--Main-KagakuIB-013.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    }
+]

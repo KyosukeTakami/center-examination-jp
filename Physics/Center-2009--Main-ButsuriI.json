@@ -1,0 +1,629 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q1",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n次の文章中の空欄・に入れる数値として正しいものを，以下の①～⑤のうちから一つずつ選べ。ただし，同じものを繰り返し選んでもよい。\n水平なあらい面上で物体をすべらせ，すべり始めてから停止するまでの距離が初速度または動摩擦係数によってどのように変わるかを考える。動摩擦係数が同じ場合，初速度が2倍になると，停止するまでの距離は倍になる。一方，初速度が同じ場合，動摩擦係数が倍になると，停止するまでの距離は倍になる。",
+        "choices": {
+            "choice1": "①1",
+            "choice2": "②",
+            "choice3": "③2",
+            "choice4": "④",
+            "choice5": "⑤4"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "5,3",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q2",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n手回し発電機は，ハンドルを回転させることによって起電力を発生させる装置である。リード線に図１に示すa～cのような接続を行い，いずれの接続の場合でも同じ起電力が発生するように，同じ速さでハンドルを回転させた。a～cの接続について，ハンドルの手ごたえが軽いほうから重いほうに並べた順として正しいものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①abc",
+            "choice2": "②acb",
+            "choice3": "③bac",
+            "choice4": "④bca",
+            "choice5": "⑤cab",
+            "choice6": "⑥cba"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,IC_P,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "5",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q3",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図２のように，質量mのおもりがつり下げられた糸の上端を手で持ち，糸の傾きを一定に保ちながらおもりを水平方向に直線運動させる。糸が鉛直となす角度を??とするとき，おもりの加速度の大きさaとして正しいものを，以下の①～⑧のうちから一つ選べ。ただし，空気の抵抗は無視できるものとし，重力加速度の大きさをgとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "3",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q4",
+        "label": "問４",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n池に潜り，深さhの位置から水面を見上げ，水の外を見ていた。図３のように，光を通さない円板が水面に置かれたので，外が全く見えなくなった。そのとき円板の中心は，潜っている人の目の鉛直上方にあった。このように外が見えなくなる円板の半径の最小値Rを与える式として正しいものを，以下の①～⑥のうちから一つ選べ。ただし，空気に対する水の屈折率(相対屈折率)をnとし，水面は波立っていないものとする。また，円板の厚さと目の大きさは無視してよい。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "6",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q5",
+        "label": "問５",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図４のように，一方の端を閉じた細長い管の開口端付近にスピーカーを置いて音を出す。音の振動数を徐々に大きくしていくと，ある振動数fのときに初めて共鳴した。このとき，管内の気柱には図のような開口端を腹とする定常波ができている。そのときの音の波長を??とする。さらに振動数を大きくしていくと，ある振動数のとき再び共鳴した。このときの音の振動数と波長の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "6",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q6",
+        "label": "問６",
+        "text": "\n\n次の問い(問１～６)に答えよ。\n\n\n図５はある小規模な水力発電所の概略を示す。川から供給される水は貯水槽に貯えられたあと，導水管を通って17mの高さを落下し，毎秒30kgの水が発電機に導かれる。この発電所で実際に得られた電力は2.2kＷであった。この大きさは，貯水槽と発電機の間における水の位置エネルギーの減少分が，すべて電気エネルギーに変換された場合に得られる電力の大きさの約何％か。最も適当な数値を，以下の①～⑤のうちから一つ選べ。ただし，重力加速度の大きさを9.8m/s2とする。\n",
+        "choices": {
+            "choice1": "①11",
+            "choice2": "②26",
+            "choice3": "③37",
+            "choice4": "④44",
+            "choice5": "⑤50"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-001.png",
+            "Center-2009--Main-ButsuriI-002.png",
+            "Center-2009--Main-ButsuriI-003.png",
+            "Center-2009--Main-ButsuriI-004.png",
+            "Center-2009--Main-ButsuriI-005.png",
+            "Center-2009--Main-ButsuriI-006.png"
+        ],
+        "correct_answer": "4",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q7",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のような装置は箔検電器と呼ばれ，箔の開き方から電荷の有無や帯電の程度を知ることができる。箔検電器を用いて行う静電気の実験について考えよう。\n\n\nＢ\n電池が流す電気量について考えよう。\n\n箔検電器の動作を説明する次の文章の空欄～に入れる記述a～cの組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n帯電していない箔検電器の金属板に正の帯電体を近づけると，ため自由電子が引き寄せられる。その結果，金属板は負に帯電する。一方，箔検電器内ではため帯電体から遠い箔の部分は自由電子が減少して正に帯電する。帯電した箔は，ため開く。\n\n【a同種の電荷は互いに反発しあう】【b異種の電荷は互いに引き合う\n】【c電気量の総量は一定である\n】",
+        "choices": {
+            "choice1": "①abc",
+            "choice2": "②acb",
+            "choice3": "③bac",
+            "choice4": "④bca",
+            "choice5": "⑤cab",
+            "choice6": "⑥cba"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "symbol-symbol-symbol",
+        "knowledge_type": "KS,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-007.png",
+            "Center-2009--Main-ButsuriI-008.png",
+            "Center-2009--Main-ButsuriI-009.png",
+            "Center-2009--Main-ButsuriI-010.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q8",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のような装置は箔検電器と呼ばれ，箔の開き方から電荷の有無や帯電の程度を知ることができる。箔検電器を用いて行う静電気の実験について考えよう。\n\n\nＢ\n電池が流す電気量について考えよう。\n\n箔検電器に電荷Qを与えて，図２(a)で示したように箔を開いた状態にしておいた。次に箔検電器の金属板に，負に帯電した塩化ビニル棒を遠方から近づけたところ，箔の開きは次第に減少して図２(b)のように閉じた。初めに与えた電荷Qと図２(b)の状態の金属板の部分にある電荷にあてはまる式の組合せとして正しいものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①，",
+            "choice2": "②，",
+            "choice3": "③，",
+            "choice4": "④，",
+            "choice5": "⑤，",
+            "choice6": "⑥，"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-007.png",
+            "Center-2009--Main-ButsuriI-008.png",
+            "Center-2009--Main-ButsuriI-009.png",
+            "Center-2009--Main-ButsuriI-010.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q9",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のような装置は箔検電器と呼ばれ，箔の開き方から電荷の有無や帯電の程度を知ることができる。箔検電器を用いて行う静電気の実験について考えよう。\n\n\nＢ\n電池が流す電気量について考えよう。\n\n図２(b)の状態からさらに棒を近づけると再び箔は開いた。このとき箔の部分にある電荷は正負いずれか。また，その状態のまま図３のように金属板に指で触れた。指で触れているときの箔の開きは，触れる前と比べてどうなるか。電荷の正負と箔の開き方の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①正 大きくなる",
+            "choice2": "②正 変わらない",
+            "choice3": "③正 小さくなる",
+            "choice4": "④負 大きくなる",
+            "choice5": "⑤負 変わらない",
+            "choice6": "⑥負 小さくなる"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "(sentence-sentence)*2",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-007.png",
+            "Center-2009--Main-ButsuriI-008.png",
+            "Center-2009--Main-ButsuriI-009.png",
+            "Center-2009--Main-ButsuriI-010.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q10",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のような装置は箔検電器と呼ばれ，箔の開き方から電荷の有無や帯電の程度を知ることができる。箔検電器を用いて行う静電気の実験について考えよう。\n\n\nＢ\n電池が流す電気量について考えよう。\n\n起電力20Ｖの電池に電気抵抗500Ωの抵抗器をつなぎ，10秒間だけ電流を流した。この間に電池が流した電気量は電子何個分に相当するか。最も適当な数値を，次の①～⑧のうちから一つ選べ。ただし，電子1個の電気量の大きさはＣとする。また，このとき電池の内部抵抗は無視できるものとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-007.png",
+            "Center-2009--Main-ButsuriI-008.png",
+            "Center-2009--Main-ButsuriI-009.png",
+            "Center-2009--Main-ButsuriI-010.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q11",
+        "label": "問５",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のような装置は箔検電器と呼ばれ，箔の開き方から電荷の有無や帯電の程度を知ることができる。箔検電器を用いて行う静電気の実験について考えよう。\n\n\nＢ\n電池が流す電気量について考えよう。\n\n充電された携帯電話用の電池は流すことのできる電気量が限られている。図４は，完全に充電したある携帯電話用の電池にある抵抗器をつないだとき，抵抗器を流れる電流の時間変化を表している。この電池を携帯電話に使う場合，通話時に流れる電流が100mＡで一定であるとすると，最大何時間の連続通話が可能か。最も適当な数値を，以下の①～⑥のうちから一つ選べ。ただし，一回の完全充電後この電池が流すことのできる電気量は，流す電流によらず一定であるとする。\n",
+        "choices": {
+            "choice1": "①2",
+            "choice2": "②7",
+            "choice3": "③10",
+            "choice4": "④20",
+            "choice5": "⑤35",
+            "choice6": "⑥57"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_G,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-007.png",
+            "Center-2009--Main-ButsuriI-008.png",
+            "Center-2009--Main-ButsuriI-009.png",
+            "Center-2009--Main-ButsuriI-010.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q12",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のように，スピーカーA，Bが十分隔てておかれ，AとBを結ぶ直線上にある測定器Pで音波を測定する。二つのスピーカーには発振器が接続され，振動数と振幅が同じ平面波の音波がPへ向けて発せられるものとする。また，風はなく，音速は一定であるとする。\n\n\nＢ\n図２のような格子定数(スリットの間隔)dの回折格子に，波長??の光を垂直に入射した。このとき，隣り合うスリットを通る光の経路差が光の一波長分となる回折光は強めあう。このような方向の回折光を一次回折光という。\n\nA，Bから同時に音波を出し始めたところ，Bからの音がAからの音に対して時間Tだけ遅れてPに届いた。間の距離をL，音速をVとするとき，間の距離として正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-011.png",
+            "Center-2009--Main-ButsuriI-012.png",
+            "Center-2009--Main-ButsuriI-013.png",
+            "Center-2009--Main-ButsuriI-014.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q13",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のように，スピーカーA，Bが十分隔てておかれ，AとBを結ぶ直線上にある測定器Pで音波を測定する。二つのスピーカーには発振器が接続され，振動数と振幅が同じ平面波の音波がPへ向けて発せられるものとする。また，風はなく，音速は一定であるとする。\n\n\nＢ\n図２のような格子定数(スリットの間隔)dの回折格子に，波長??の光を垂直に入射した。このとき，隣り合うスリットを通る光の経路差が光の一波長分となる回折光は強めあう。このような方向の回折光を一次回折光という。\n\n次に，A，Bから一定の振動数の音波を発し，AとBの間のいろいろな位置にPを置いて音波を測定すると，音が最も大きくなる場所が1.0mの間隔で存在した。このことから，間に定常波ができていることが分かる。スピーカーから発せられている音波の振動数は何Ｈzか。最も適当な数値を，次の①～⑥のうちから一つ選べ。ただし，音速は340m/sとする。\n",
+        "choices": {
+            "choice1": "①680",
+            "choice2": "②510",
+            "choice3": "③340",
+            "choice4": "④170",
+            "choice5": "⑤85",
+            "choice6": "⑥34"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-011.png",
+            "Center-2009--Main-ButsuriI-012.png",
+            "Center-2009--Main-ButsuriI-013.png",
+            "Center-2009--Main-ButsuriI-014.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q14",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のように，スピーカーA，Bが十分隔てておかれ，AとBを結ぶ直線上にある測定器Pで音波を測定する。二つのスピーカーには発振器が接続され，振動数と振幅が同じ平面波の音波がPへ向けて発せられるものとする。また，風はなく，音速は一定であるとする。\n\n\nＢ\n図２のような格子定数(スリットの間隔)dの回折格子に，波長??の光を垂直に入射した。このとき，隣り合うスリットを通る光の経路差が光の一波長分となる回折光は強めあう。このような方向の回折光を一次回折光という。\n\n次の文章中の空欄・・に入れる語の組合せとして最も適当なものを，以下の①～⑥のうちから一つ選べ。\nPを一定の速さでAからBの向きに動かすと，Pが測定する音の大きさが周期的に変化した。これは，問２で考えたように定常波が生じているためである。\nこの現象は次のようにも説明できる。AからBの向きに動いているPからみると，Aからの音の振動数は，Bからの音の振動数は。振動数の異なるこれらの二つの音がおこすのために音の大きさが周期的に変化した。",
+        "choices": {
+            "choice1": "①大きくなり 小さくなる 屈 折",
+            "choice2": "②大きくなり 小さくなる うなり",
+            "choice3": "③大きくなり 小さくなる 反 射",
+            "choice4": "④小さくなり 大きくなる 屈 折",
+            "choice5": "⑤小さくなり 大きくなる うなり",
+            "choice6": "⑥小さくなり 大きくなる 反 射"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-011.png",
+            "Center-2009--Main-ButsuriI-012.png",
+            "Center-2009--Main-ButsuriI-013.png",
+            "Center-2009--Main-ButsuriI-014.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q15",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ\n図１のように，スピーカーA，Bが十分隔てておかれ，AとBを結ぶ直線上にある測定器Pで音波を測定する。二つのスピーカーには発振器が接続され，振動数と振幅が同じ平面波の音波がPへ向けて発せられるものとする。また，風はなく，音速は一定であるとする。\n\n\nＢ\n図２のような格子定数(スリットの間隔)dの回折格子に，波長??の光を垂直に入射した。このとき，隣り合うスリットを通る光の経路差が光の一波長分となる回折光は強めあう。このような方向の回折光を一次回折光という。\n\n格子定数dがm，光の波長??がmであるとき，一次回折光の方向が入射光の方向となす角度??の値として最も適当なものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-011.png",
+            "Center-2009--Main-ButsuriI-012.png",
+            "Center-2009--Main-ButsuriI-013.png",
+            "Center-2009--Main-ButsuriI-014.png"
+        ],
+        "correct_answer": "3",
+        "score": "5"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q16",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\nばねの伸びdはいくらになるか。正しいものを，次の①～⑥のうちから一つ選べ。ただし，重力加速度の大きさをgとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q17",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\nばねBの弾性エネルギーは，ばねAの弾性エネルギーの何倍になるか。正しいものを，次の①～⑧のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q18",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\nおもりをつり下げた点Pは，棒の左端(ばねAの側)からどれだけの距離であったか。正しいものを，次の①～⑦のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q19",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\n浮きが上端を水面上に出して図２のように静止しているとき，上端の水面からの高さxとして正しいものを，次の①～⑧のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥",
+            "choice7": "⑦",
+            "choice8": "⑧"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q20",
+        "label": "問５",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\n図２の静止状態で，浮きとおもりをつないでいる糸が突然切れた。切れた直後の浮きの加速度の大きさとして正しいものを，次の①～⑥のうちから一つ選べ。ただし，重力加速度の大きさをgとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q21",
+        "label": "問６",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\n状態A，B，Cの温度をそれぞれ，，としたとき，それらの関係を表す不等式として正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_G,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriI(main exam)",
+        "year": "2009",
+        "question_id": "Q22",
+        "label": "問７",
+        "text": "\n\n次の文章(Ａ～Ｃ)を読み，以下の問い(問１～７)に答えよ。\nＡ\n図１のように，自然の長さが同じばねA(ばね定数k)とばねB(ばね定数K)を間隔Lで水平な天井からつり下げ，ばねの下端に長さLの棒を取り付けた。この棒が水平に保たれるように，棒上の点Pに糸で質量mのおもりをつり下げたところ，二つのばねは同じ長さdだけ伸びて静止した。ただし，ばね，棒および糸の質量は無視できるものとする。\n\n\nＢ\n図２のように，浮きを水面に垂直に浮かべた。浮きは断面積S，長さLの細長い一様な円柱であり，その下には質量mのおもりが糸でつり下げられている。水の密度を，浮きの密度を??()とする。ただし，糸の質量と太さおよびおもりの大きさは無視できるものとする。\n\n\nＣ\nある気体(理想気体)が，ピストンでシリンダー内に閉じ込められている。図３は，この気体の圧力と体積の変化を表す図である。初め状態Aにあった気体を，状態B，状態C，状態Dの順に変化させた後，再び状態Aにもどした。ただし，過程A→Bは断熱変化，過程B→Cは定圧(等圧)変化，過程C→Dは定積(等積)変化，過程D→Aは等温変化である。\n\n三つの過程B→C，C→D，D→Aにおいて，気体がピストンにした仕事を，，とする。それぞれ，正であるか，負であるか，0であるかについて，正しい組合せを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①正 負 0",
+            "choice2": "②正 0 負",
+            "choice3": "③負 正 0",
+            "choice4": "④負 0 正",
+            "choice5": "⑤0 正 負",
+            "choice6": "⑥0 負 正"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence-sentence-sentence",
+        "knowledge_type": "KS,IC_G,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2009--Main-ButsuriI-015.png",
+            "Center-2009--Main-ButsuriI-016.png",
+            "Center-2009--Main-ButsuriI-017.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    }
+]

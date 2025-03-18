@@ -1,0 +1,550 @@
+[
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q1",
+        "label": "問１",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n力のモーメントに関する記述として最も適当なものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①釘抜きで釘を抜くとき，支点になるべく近いところを握った方が小さな力で釘が抜ける。",
+            "choice2": "②はさみで硬いものを切るときは，はさみの先の方が切りやすい。",
+            "choice3": "③野球のバットの細い端をAが，太い端をBが握って，互いに逆向きにねじろうとすると，Aが有利である。",
+            "choice4": "④大人と幼児がシーソーに乗って遊ぶとき，大人は幼児より支点に近づいて座らないとバランスが取れない。",
+            "choice5": "⑤重い材木を二人でかつぐとき，材木の重心に近いところをかつぐ人の方が小さな力ですむ。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,GK,DM_P5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-001.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q2",
+        "label": "問２",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n熱に関する記述として最も適当なものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①同じ質量の物体に等量の熱を与えたとき，温度上昇が大きい方が比熱は大きい。",
+            "choice2": "②物体を構成している分子または原子の熱運動の激しさの程度を，われわれは温度の高低として感じる。",
+            "choice3": "③比重の大きい物質は，比熱も大きい。",
+            "choice4": "④温度の異なる物体が接触すると，熱は低温の物体から高温の物体に移る。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-001.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q3",
+        "label": "問３",
+        "text": "\n\n次の問い(問１～５)に答えよ。\n\n\n原子核と放射線に関する記述として最も適当なものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①(?崩壊では，質量数は減るが原子番号は変化しない。",
+            "choice2": "②(?崩壊では，質量数も原子番号も変化しない。",
+            "choice3": "③(?線と(?線は電界によって互いに反対向きに曲げられる。",
+            "choice4": "④核分裂で放出される中性子は，電子と同程度の質量をもつが電荷はもたない。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,DM_P5",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-001.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q4",
+        "label": "問５",
+        "text": "図１のように，点Aに電気量Q，点Bに2Qの点電荷()を置く。このとき，となるような二等辺三角形PABの頂点Pに生じる電界の向きとして最も適当なものを，図１の①～⑥のうちから一つ選べ。\n\n\nなめらかで水平な床の上で等速運動していた小物体Aが，同じ質量の静止している小物体Bに衝突して合体した。合体後の速さは衝突前の小物体Aの速さの何倍になるか。また，合体後の運動エネルギーは，衝突前の運動エネルギーの何倍になるか。正しいものを，次のそれぞれの解答群のうちから一つずつ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④1",
+            "choice5": "①",
+            "choice6": "②",
+            "choice7": "③",
+            "choice8": "④1"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P3,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-001.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q5",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\nこのとき，木片の加速度の大きさはいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①g",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q6",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\nまた，ひもが木片を引く力の大きさはいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①Mg",
+            "choice2": "②mg",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q7",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\nこの結果から得られる木片と台の間の静止摩擦係数(?の値はいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q8",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\n木片が運動しているとき，ひもが木片を引く力の大きさをTとすると，木片の運動方程式として正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "6",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q9",
+        "label": "問５",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\n図２のようにのとき，加速度の大きさはa2であった。これから求められる動摩擦係数はいくらか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q10",
+        "label": "問６",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～６)に答えよ。\nＡ図１のように，水平な台の上に質量Mの木片を置き，台の端に取り付けた滑車を通して，伸び縮みしないひもで皿と結び，皿の上に質量mのおもりをのせる。ただし，重力加速度の大きさをgとし，また，ひもと皿の質量は無視でき，滑車は軽くてなめらかに回転できるものとする。\nまず，木片と台の間に摩擦がないとした場合の運動を考えよう。\n\n\nＢ実際には，木片と台の間には摩擦がある。静止摩擦係数(?と動摩擦係数を求めるため，おもりの質量mをいろいろと変えて木片の運動を調べ，次の結果を得た。\n\n(1)では，木片は運動しなかった。\n(2)では，木片は等加速度で運動した。\n(3)mと加速度の大きさaの関係をグラフにすると，図２のようになった。\n\nさらに，おもりの質量mを大きくしていくと，加速度の大きさaは，ある値に近づく。その値はいくらか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①g",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P3",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-002.png",
+            "Center-2001--Main-ButsuriIB-003.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q11",
+        "label": "問１",
+        "text": "\n\n断面積S，質量Mのなめらかに動くピストンにより，一定量の気体を閉じ込めたシリンダーがある。このシリンダーを鉛直に立てたり，水平に倒したりして，気体部分の長さを測った。閉じ込められた気体の温度は，常に周囲の大気と同じとして，次の問い(問１～３)に答えよ。ただし，重力加速度の大きさをgとする。\n\n\n大気の圧力がp，絶対温度がTのとき，図１のようにシリンダーを鉛直上向きにした状態で，閉じ込められた気体部分の長さはであった。このとき，閉じ込められた気体の圧力はいくらか。正しいものを，次の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①p",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-004.png",
+            "Center-2001--Main-ButsuriIB-005.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q12",
+        "label": "問２",
+        "text": "\n\n断面積S，質量Mのなめらかに動くピストンにより，一定量の気体を閉じ込めたシリンダーがある。このシリンダーを鉛直に立てたり，水平に倒したりして，気体部分の長さを測った。閉じ込められた気体の温度は，常に周囲の大気と同じとして，次の問い(問１～３)に答えよ。ただし，重力加速度の大きさをgとする。\n\n\nまた，図２のようにシリンダーを水平にすると，閉じ込められた気体部分の長さはLになった。以上のことから，大気の圧力pはどのように表されるか。正しいものを，以下の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-004.png",
+            "Center-2001--Main-ButsuriIB-005.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q13",
+        "label": "問３",
+        "text": "\n\n断面積S，質量Mのなめらかに動くピストンにより，一定量の気体を閉じ込めたシリンダーがある。このシリンダーを鉛直に立てたり，水平に倒したりして，気体部分の長さを測った。閉じ込められた気体の温度は，常に周囲の大気と同じとして，次の問い(問１～３)に答えよ。ただし，重力加速度の大きさをgとする。\n\n\n次に，大気の圧力が，絶対温度がのときに，閉じ込められた気体部分の長さを測ると，シリンダーが水平の場合にはであった。温度比はどのように表されるか。正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P4",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-004.png",
+            "Center-2001--Main-ButsuriIB-005.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q14",
+        "label": "問１",
+        "text": "\n\n底の平らな水槽を水平に置き，水面の波を調べた。次の文章(Ａ～Ｃ)を読み，以下の問い(問１～５)に答えよ。ただし，水槽の側壁からの反射は無視できるように工夫してある。\nＡ水面上のある点で，小球を振動数fで上下に振動させ，上から見たところ，水面に波長(?の円形に広がる波が発生した。\n\n\nＢ水面上の2点P，Qで，二つの小球を，同じ振動数，同じ振幅，同じ位相で上下に振動させて，波を発生させた。\n\n\nＣまっすぐな細長い棒を水平にし，一定の振動数で上下に振動させると，水面上に直線状の波面ができた。\n\nこの波の速さはいくらか。正しいものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-006.png",
+            "Center-2001--Main-ButsuriIB-007.png",
+            "Center-2001--Main-ButsuriIB-008.png",
+            "Center-2001--Main-ButsuriIB-009.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q15",
+        "label": "問２",
+        "text": "\n\n底の平らな水槽を水平に置き，水面の波を調べた。次の文章(Ａ～Ｃ)を読み，以下の問い(問１～５)に答えよ。ただし，水槽の側壁からの反射は無視できるように工夫してある。\nＡ水面上のある点で，小球を振動数fで上下に振動させ，上から見たところ，水面に波長(?の円形に広がる波が発生した。\n\n\nＢ水面上の2点P，Qで，二つの小球を，同じ振動数，同じ振幅，同じ位相で上下に振動させて，波を発生させた。\n\n\nＣまっすぐな細長い棒を水平にし，一定の振動数で上下に振動させると，水面上に直線状の波面ができた。\n\n小球を振動数fで上下に振動させながら，水平方向に一定の速さで移動させたところ，小球の移動していく向きに進む波の波長はになった。小球の移動の速さはいくらか。正しいものを，次の①～⑥のうちから一つ選べ。ただし，小球の移動の速さは，波の速さより小さいものとする。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④",
+            "choice5": "⑤",
+            "choice6": "⑥"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-006.png",
+            "Center-2001--Main-ButsuriIB-007.png",
+            "Center-2001--Main-ButsuriIB-008.png",
+            "Center-2001--Main-ButsuriIB-009.png"
+        ],
+        "correct_answer": "5",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q16",
+        "label": "問４",
+        "text": "水面が上下にほとんど振動しない点をつなぐと，どのような図形になるか。最も適当なものを，次の①～④のうちから一つ選べ。\n\n\nここで，図１のように，一様な厚さのガラス板を水槽の底に沈めることにより，水槽の一部の水深を浅くした。水深の深い側の波面とガラス板の縁RSとの角度は45°で，水深の浅い側の波面とRSとの角度は30°であった。水深の浅い側での波の速さは，深い側での波の速さの何倍か。正しいものを，以下の①～⑤のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③1",
+            "choice4": "④",
+            "choice5": "⑤"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-006.png",
+            "Center-2001--Main-ButsuriIB-007.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q17",
+        "label": "問５",
+        "text": "水面が上下にほとんど振動しない点をつなぐと，どのような図形になるか。最も適当なものを，次の①～④のうちから一つ選べ。\n\n\n次に，図２のように，水槽に薄いガラス板を斜めに入れ，あるところから水深を次第に浅くした。図３では，深さの等しい点を連ねてできる線(等深線)を点線で示してある。振動する棒を等深線に対して斜めに置いて，波を発生させた。水深の変化している部分を進む波のようすの記述として最も適当なものを，以下の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①波は，波長が一定のまま，直進する。",
+            "choice2": "②波は，波長を変えながら，直進する。",
+            "choice3": "③波面は，図３で次第に反時計回りに曲がり，等深線に垂直になろうとする。",
+            "choice4": "④波面は，図３で次第に時計回りに曲がり，等深線に平行になろうとする。"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "sentence",
+        "knowledge_type": "KS,IC_O,DM_P2",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-006.png",
+            "Center-2001--Main-ButsuriIB-008.png",
+            "Center-2001--Main-ButsuriIB-009.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q18",
+        "label": "問１",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１に示すように，極板の面積がすべて等しい平行板コンデンサーC1，C2，C3がある。極板間の距離はC1，C2ではdで，C3ではである。また，コンデンサーC1，C3は空気で，C2は比誘電率3.0の誘電体でそれぞれ満たされている。\n\n\nＢ電球にかかる電圧と流れる電流の関係を調べるため，図３のような回路(a)を組んだ。可変抵抗器の抵抗値を変えながら，電圧計の値V[Ｖ]と電流計の値I[Ａ]を読みとり，図４の結果を得た。ただし，電池および電流計の内部抵抗と電圧計に流れる電流は無視できるものとする。\n\n電気容量の大きいものから順に並べるとどうなるか。順序の正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①C1，C3，C2",
+            "choice2": "②C2，C3，C1",
+            "choice3": "③C2，C1，C3",
+            "choice4": "④C3，C1，C2"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "other",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-010.png",
+            "Center-2001--Main-ButsuriIB-011.png",
+            "Center-2001--Main-ButsuriIB-012.png",
+            "Center-2001--Main-ButsuriIB-013.png",
+            "Center-2001--Main-ButsuriIB-014.png",
+            "Center-2001--Main-ButsuriIB-015.png",
+            "Center-2001--Main-ButsuriIB-016.png"
+        ],
+        "correct_answer": "2",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q19",
+        "label": "問２",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１に示すように，極板の面積がすべて等しい平行板コンデンサーC1，C2，C3がある。極板間の距離はC1，C2ではdで，C3ではである。また，コンデンサーC1，C3は空気で，C2は比誘電率3.0の誘電体でそれぞれ満たされている。\n\n\nＢ電球にかかる電圧と流れる電流の関係を調べるため，図３のような回路(a)を組んだ。可変抵抗器の抵抗値を変えながら，電圧計の値V[Ｖ]と電流計の値I[Ａ]を読みとり，図４の結果を得た。ただし，電池および電流計の内部抵抗と電圧計に流れる電流は無視できるものとする。\n\n図１のコンデンサーC1，C2，C3を用いて図２のような回路を組んだ。すべてのコンデンサーに電荷がない状態から，スイッチSをa側にたおしてコンデンサーC1を起電力9.0Ｖの電池で充電した。次にスイッチSをb側に切り替えた。図２の端子1，2の間の電位差はいくらになるか。正しいものを，以下の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①1.5",
+            "choice2": "②1.8",
+            "choice3": "③3.0",
+            "choice4": "④4.5",
+            "choice5": "⑤5.5",
+            "choice6": "⑥9.0"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-010.png",
+            "Center-2001--Main-ButsuriIB-011.png",
+            "Center-2001--Main-ButsuriIB-012.png",
+            "Center-2001--Main-ButsuriIB-013.png",
+            "Center-2001--Main-ButsuriIB-014.png",
+            "Center-2001--Main-ButsuriIB-015.png",
+            "Center-2001--Main-ButsuriIB-016.png"
+        ],
+        "correct_answer": "1",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q20",
+        "label": "問３",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１に示すように，極板の面積がすべて等しい平行板コンデンサーC1，C2，C3がある。極板間の距離はC1，C2ではdで，C3ではである。また，コンデンサーC1，C3は空気で，C2は比誘電率3.0の誘電体でそれぞれ満たされている。\n\n\nＢ電球にかかる電圧と流れる電流の関係を調べるため，図３のような回路(a)を組んだ。可変抵抗器の抵抗値を変えながら，電圧計の値V[Ｖ]と電流計の値I[Ａ]を読みとり，図４の結果を得た。ただし，電池および電流計の内部抵抗と電圧計に流れる電流は無視できるものとする。\n\n回路(a)で，電池の起電力E[Ｖ]，可変抵抗器の抵抗値がR[Ω]のとき，VとIの間に成り立つ関係として正しいものを，次の①～④のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①",
+            "choice2": "②",
+            "choice3": "③",
+            "choice4": "④"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-010.png",
+            "Center-2001--Main-ButsuriIB-011.png",
+            "Center-2001--Main-ButsuriIB-012.png",
+            "Center-2001--Main-ButsuriIB-013.png",
+            "Center-2001--Main-ButsuriIB-014.png",
+            "Center-2001--Main-ButsuriIB-015.png",
+            "Center-2001--Main-ButsuriIB-016.png"
+        ],
+        "correct_answer": "3",
+        "score": "4"
+    },
+    {
+        "source": "National Center For University Entrance Examination",
+        "subject": "ButsuriIB(main exam)",
+        "year": "2001",
+        "question_id": "Q21",
+        "label": "問４",
+        "text": "\n\n次の文章(Ａ・Ｂ)を読み，以下の問い(問１～５)に答えよ。\nＡ図１に示すように，極板の面積がすべて等しい平行板コンデンサーC1，C2，C3がある。極板間の距離はC1，C2ではdで，C3ではである。また，コンデンサーC1，C3は空気で，C2は比誘電率3.0の誘電体でそれぞれ満たされている。\n\n\nＢ電球にかかる電圧と流れる電流の関係を調べるため，図３のような回路(a)を組んだ。可変抵抗器の抵抗値を変えながら，電圧計の値V[Ｖ]と電流計の値I[Ａ]を読みとり，図４の結果を得た。ただし，電池および電流計の内部抵抗と電圧計に流れる電流は無視できるものとする。\n\n回路(a)で，起電力Ｖ，可変抵抗器の抵抗値Ωのときの電圧の測定値Vはいくらか。最も適当なものを，次の①～⑥のうちから一つ選べ。\n",
+        "choices": {
+            "choice1": "①1.6",
+            "choice2": "②2.0",
+            "choice3": "③2.4",
+            "choice4": "④2.8",
+            "choice5": "⑤3.2",
+            "choice6": "⑥3.6"
+        },
+        "answer_style": "multipleChoice",
+        "answer_type": "formula",
+        "knowledge_type": "KS,IC_O,IC_G,DM_P1",
+        "need_image": "yes",
+        "image_files": [
+            "Center-2001--Main-ButsuriIB-010.png",
+            "Center-2001--Main-ButsuriIB-011.png",
+            "Center-2001--Main-ButsuriIB-012.png",
+            "Center-2001--Main-ButsuriIB-013.png",
+            "Center-2001--Main-ButsuriIB-014.png",
+            "Center-2001--Main-ButsuriIB-015.png",
+            "Center-2001--Main-ButsuriIB-016.png"
+        ],
+        "correct_answer": "4",
+        "score": "4"
+    }
+]

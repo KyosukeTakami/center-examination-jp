@@ -25,12 +25,25 @@ To utilize this dataset:
 2. Parse the JSON files for specific subject questions.
 3. Use the dataset to evaluate LLMs or for educational research.
 
+
+## License and Terms of Use
+This dataset is provided for academic and non-commercial research purposes only, particularly for research in artificial intelligence, education, and related fields.
+
+Commercial use is strictly prohibited.
+
+Redistribution or modification is allowed for non-commercial academic research, provided appropriate attribution is given.
+
+By using this dataset, you agree to these terms.
+
+If you are interested in commercial use or redistribution beyond academic purposes, please contact the authors for permission.
+
+
 ## Citation
 
 If you use this dataset in your research, please cite the original work:
 
 ```
-Anonymous et al. "Local LLM Evaluation with Students' Performance Using the Japanese National University Entrance Examination Dataset." (2025)
+Kyosuke Takami, Satoshi Sekine, & Yusuke Miyao. (2025). Evaluating Local LLMs on Japanese National University Entrance Examination Dataset in Comparison with Student Performance. Proceedings of the 18th International Conference on Educational Data Mining, 582--585. https://doi.org/10.5281/zenodo.15870238
 ```
 
 ## Acknowledgments

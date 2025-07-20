@@ -1,7 +1,3 @@
-Here is a draft for your GitHub README file:
-
----
-
 # Japanese University Entrance Exam Dataset Repository
 
 ## Overview
